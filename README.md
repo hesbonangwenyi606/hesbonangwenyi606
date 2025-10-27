@@ -12,7 +12,8 @@ I’m a Full Stack Software Engineer & DevOps Engineer passionate about building
 ![](https://nirzak-streak-stats.vercel.app/?user=hesbonangwenyi606&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hesbonangwenyi606&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layo## 
 
-## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=hesbonangwenyi606&theme=radical&no-frame=false&no-bg=false&margin-w=4) give me the correct url of the trophies
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hesbonangwenyi606&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
