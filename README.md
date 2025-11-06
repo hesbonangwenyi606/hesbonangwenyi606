@@ -17,35 +17,8 @@ I’m a Full Stack Software Engineer & DevOp Engineer passionate about building 
 ![](https://github-profile-trophy.vercel.app/?username=hesbonangwenyi606&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## GitHub Stats in All Themes
 
-### Dark
-![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-### Radical
-![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-### Merko
-![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-### Gruvbox
-![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-### Tokyo Night
-![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-### One Dark
-![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-### Cobalt
-![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-### Synthwave
-![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-### High Contrast
-![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-### Dracula
-![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=synthwave)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
