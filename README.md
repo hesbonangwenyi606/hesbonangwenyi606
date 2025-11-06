@@ -16,6 +16,39 @@ I’m a Full Stack Software Engineer & DevOp Engineer passionate about building 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hesbonangwenyi606&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## GitHub Stats (Themes)
+
+### Dark
+![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=dark&hide_border=false)
+
+### Radical
+![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=radical&hide_border=false)
+
+### Merko
+![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=merko&hide_border=false)
+
+### Gruvbox
+![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=gruvbox&hide_border=false)
+
+### Tokyo Night
+![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=tokyonight&hide_border=false)
+
+### One Dark
+![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=onedark&hide_border=false)
+
+### Cobalt
+![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=cobalt&hide_border=false)
+
+### Synthwave
+![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=synthwave&hide_border=false)
+
+### High Contrast
+![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=highcontrast&hide_border=false)
+
+### Dracula
+![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=dracula&hide_border=false)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
