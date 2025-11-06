@@ -16,7 +16,6 @@ I’m a Full Stack Software Engineer & DevOp Engineer passionate about building 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hesbonangwenyi606&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## GitHub Stats in All Themes
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)
 ![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=synthwave)
 
