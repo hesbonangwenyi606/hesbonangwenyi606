@@ -1,5 +1,16 @@
 # 💫 About Me:
-I’m a Full Stack Software Engineer & DevOp Engineer passionate about building scalable web applications and automating infrastructure to streamline deployments. I work with Typescript, Python, and JavaScript, and enjoy creating solutions that are both efficient and maintainable.<br><br>When I’m not coding, I explore new technologies, contribute to open-source projects, and experiment with DevOps tools like Docker, Kubernetes, and Terraform to optimize workflows.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=💫+Hesbon+Angwenyi;Full+Stack+Software+Engineer;DevOps+Engineer;Building+Scalable+%26+Automated+Solutions" alt="Typing Animation" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Craftsman-%2300C4FF.svg?style=for-the-badge&logo=github&logoColor=white" alt="Code Craftsman Badge" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%2300E676.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Badge" />
+</p>
+
+<p align="center">
+  <em>✨ Turning complex ideas into reliable, efficient, and scalable systems ✨</em>
+</p>
 
 
 ## 🌐 Socials:
