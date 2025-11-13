@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=💫+Hesbon+Angwenyi;Full+Stack+Software+Engineer;DevOps+Engineer;Building+Scalable+%26+Automated+Solutions" alt="Typing Animation" />
 </h1>
