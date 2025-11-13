@@ -58,10 +58,8 @@ I’m a Full Stack Software Engineer & DevOp Engineer passionate about building 
 ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-%2300ADD8.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
-
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=hesbonangwenyi606&theme=dark&hide_border=false)
-
+![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=hesbonangwenyi606&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hesbonangwenyi606&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hesbonangwenyi606&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
