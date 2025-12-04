@@ -1,10 +1,9 @@
-\<!-- 🌊 Top Animated Name Banner -->
 ![Welcome To My GitHub Profile](https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=wave)
 
 <!-- ⌨️ Animated Typing Roles -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;DevOps+Engineer;Cloud+%7C+CI%2FCD+Automation;Python+%7C+TypeScript+%7C+JavaScript;I+Build+Scalable+Web+Applications+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-# Hesbon Angwenyi
+# Briefy Introsuction
 I’m a Full Stack Software Engineer & DevOp Engineer passionate about building scalable web applications and automating infrastructure to streamline deployments. I work with Typescript, Python, and JavaScript, and enjoy creating solutions that are both efficient and maintainable.<br><br>When I’m not coding, I explore new technologies, contribute to open-source projects, and experiment with DevOps tools like Docker, Kubernetes, and Terraform to optimize workflows.
 
 ## 🌐 Socials:
