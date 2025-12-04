@@ -1,5 +1,5 @@
 <!-- 🌊 Top Animated Name Banner -->
-![Welcom To My GitHub](https://capsule-render.vercel.app/api?type=waving&height=220&text=Hesbon%20Angwenyi&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=fadeIn)
+![Welcom To My GitHub](https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome To%20My GitHub&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=fadeIn)
 
 <!-- ⌨️ Animated Typing Roles -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;DevOps+Engineer;Cloud+%7C+CI%2FCD+Automation;Python+%7C+TypeScript+%7C+JavaScript;I+Build+Scalable+Web+Applications+%F0%9F%9A%80)](https://git.io/typing-svg)
