@@ -1,10 +1,13 @@
+![Welcome To My GitHub Profile](https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=wave)
 
-# Hesbon Angwenyi
+<!-- ⌨️ Animated Typing Roles -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+%7C+CI%2FCD+Automation;Python+%7C+TypeScript+%7C+JavaScript;I+Build+Scalable+Web+Applications)](https://git.io/typing-svg)
+
+# Summary About Who I Am
 I’m a Full Stack Software Engineer & DevOp Engineer passionate about building scalable web applications and automating infrastructure to streamline deployments. I work with Typescript, Python, and JavaScript, and enjoy creating solutions that are both efficient and maintainable.<br><br>When I’m not coding, I explore new technologies, contribute to open-source projects, and experiment with DevOps tools like Docker, Kubernetes, and Terraform to optimize workflows.
 
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/home) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Hesbon Angwenyi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hesbonmanyinsa96@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hesbon-angwenyi-58b9412b4/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/home) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@HesbonAngwenyi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hesbonmanyinsa96@gmail) 
 
 # 💻 Tech Stack:
 
@@ -22,7 +25,7 @@ I’m a Full Stack Software Engineer & DevOp Engineer passionate about building 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -59,7 +62,10 @@ I’m a Full Stack Software Engineer & DevOp Engineer passionate about building 
 ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-%2300ADD8.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=hesbonangwenyi606&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hesbonangwenyi606&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=dark&hide_border=false&include_all_commits=true&count_private=true&token=YOUR_PERSONAL_ACCESS_TOKEN)<br/> 
+![](https://nirzak-streak-stats.vercel.app/?user=hesbonangwenyi606&theme=dark&hide_border=false&token=YOUR_PERSONAL_ACCESS_TOKEN)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hesbonangwenyi606&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&token=YOUR_PERSONAL_ACCESS_TOKEN)
+
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hesbonangwenyi606&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -72,9 +78,5 @@ I’m a Full Stack Software Engineer & DevOp Engineer passionate about building 
 ---
 [![](https://visitcount.itsvg.in/api?id=hesbonangwenyi606&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hesbonmanyinsa96@gmail.com) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-   
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hesbonmanyinsa96@gmail)
