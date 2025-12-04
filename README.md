@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# Hesbon Angwenyi:
 I’m a Full Stack Software Engineer & DevOp Engineer passionate about building scalable web applications and automating infrastructure to streamline deployments. I work with Typescript, Python, and JavaScript, and enjoy creating solutions that are both efficient and maintainable.<br><br>When I’m not coding, I explore new technologies, contribute to open-source projects, and experiment with DevOps tools like Docker, Kubernetes, and Terraform to optimize workflows.
 
 
