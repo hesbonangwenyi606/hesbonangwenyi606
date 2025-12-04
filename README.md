@@ -1,5 +1,5 @@
 <!-- 🌊 Top Animated Name Banner -->
-![HESBON ANGWENYI](https://capsule-render.vercel.app/api?type=waving&height=220&text=HESBON%20ANGWENYI&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=wave)
+![Welcome To My GitHub Profile](https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=wave)
 
 <!-- ⌨️ Animated Typing Roles -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;DevOps+Engineer;Cloud+%7C+CI%2FCD+Automation;Python+%7C+TypeScript+%7C+JavaScript;I+Build+Scalable+Web+Applications+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -26,7 +26,7 @@ I’m a Full Stack Software Engineer & DevOp Engineer passionate about building 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
