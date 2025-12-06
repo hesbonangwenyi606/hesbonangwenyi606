@@ -1,30 +1,6 @@
 ![Welcome To My GitHub Profile](https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=wave)
 
-<div class="animated-border">
-  <p class="text">Full Stack Developer | DevOps | Cloud</p>
-</div>
-
-<style>
-.animated-border {
-  padding: 14px;
-  border-radius: 10px;
-  background: linear-gradient(90deg,#36BCF7,#6dd3ff,#36BCF7);
-  background-size: 300% 100%;
-  animation: moveBorder 4s linear infinite;
-}
-.animated-border .text {
-  background: #0b1220;
-  padding: 10px 20px;
-  border-radius: 8px;
-  display: inline-block;
-  font-size: 16px;
-  color: #e6f7ff;
-}
-@keyframes moveBorder {
-  0% { background-position: 0% 50%; }
-  100% { background-position: 300% 50%; }
-}
-</style>
+<!-- ⌨️ Animated Typing Roles --> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+%7C+CI%2FCD+Automation;Python+%7C+TypeScript+%7C+JavaScript;I+Build+Scalable+Web+Applications)](https://git.io/typing-svg)  
 
 # Summary About Who I Am
 I’m a Full Stack Software Engineer & DevOp Engineer passionate about building scalable web applications and automating infrastructure to streamline deployments. I work with Typescript, Python, and JavaScript, and enjoy creating solutions that are both efficient and maintainable.<br><br>When I’m not coding, I explore new technologies, contribute to open-source projects, and experiment with DevOps tools like Docker, Kubernetes, and Terraform to optimize workflows.
