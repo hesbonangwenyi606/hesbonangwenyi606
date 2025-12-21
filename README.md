@@ -71,7 +71,7 @@ Automated CI/CD pipeline using Docker, Kubernetes, Terraform.
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://i.pinimg.com/736x/77/94/9d/77949dc9e96c04011e92e3b4f3893dc4.jpg" style="width: 300px; height: auto;">
-<img src="https://i.pinimg.com/736x/ef/bc/10/efbc10dba963d0a3ecba49b9f89e427a.jpg" style="width: 300px; height: auto;">
+<img src="https://i.pinimg.com/736x/e1/18/2e/e1182e10bdbeaaa642b50a5a1f5ce289.jpg" style="width: 300px; height: auto;">
 </div>
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://deploy-cloud-tools.vercel.app/)  
