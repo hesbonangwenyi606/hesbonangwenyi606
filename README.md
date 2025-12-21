@@ -147,14 +147,14 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 **Impact:** Improved API response time by 40%, auto-scalable services.  
 **Tech Stack:** Node.js, Docker, Kong, MongoDB  
 **Screenshots:**  
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <figure style="margin:0; width:250px;">
+<div style="display: flex; flex-wrap: wrap; gap: 40px;">
+  <figure style="margin:0; width:100px;">
     <a href="https://i.pinimg.com/736x/58/2e/b2/582eb20508be71529ee789fa38827e34.jpg" target="_blank">
       <img src="https://i.pinimg.com/736x/58/2e/b2/582eb20508be71529ee789fa38827e34.jpg" style="width:100%; border-radius:8px;" />
     </a>
     <figcaption style="text-align:center; font-size:12px; margin-top:4px;">API Gateway</figcaption>
   </figure>
-  <figure style="margin:0; width:250px;">
+  <figure style="margin:0; width:100px;">
     <a href="https://i.pinimg.com/736x/02/7b/dc/027bdc5719c47ff2fac09e1a5b1325e0.jpg" target="_blank">
       <img src="https://i.pinimg.com/736x/02/7b/dc/027bdc5719c47ff2fac09e1a5b1325e0.jpg" style="width:100%; border-radius:8px;" />
     </a>
