@@ -1,14 +1,13 @@
 ![Welcome To My GitHub Profile](https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=wave)
 
 <!-- ⌨️ Animated Typing Roles --> 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+%7C+CI%2FCD+Automation;Python+%7C+TypeScript+%7C+JavaScript;I+Build+Scalable+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;Backend+%7C+Cloud+%7C+CI%2FCD;Python+%7C+Node.js+%7C+TypeScript;I+Deliver+Scalable+Solutions)](https://git.io/typing-svg)
 
-# Hi, I'm Hesbon Angwenyi 👋
-I’m a **Full-Stack Software Engineer & DevOps Engineer** passionate about building **scalable, high-performance applications** and automating cloud infrastructure to streamline deployments.  
+# 👋 About Me
+I’m **Hesbon Angwenyi**, a Full-Stack & DevOps Engineer who builds **scalable, high-performance applications** and automates **cloud infrastructure**.  
+I create **efficient, maintainable, and production-ready systems** using modern technologies and DevOps practices.  
 
-I work primarily with **TypeScript, Python, and JavaScript**, and enjoy creating solutions that are **efficient, maintainable, and production-ready**.  
-
-When I’m not coding, I explore new technologies, contribute to open-source, and experiment with **Docker, Kubernetes, Terraform**, and CI/CD pipelines to optimize workflows.
+**What sets me apart:** measurable impact, strong end-to-end engineering, and expertise in automating deployment pipelines.
 
 ---
 
@@ -16,27 +15,30 @@ When I’m not coding, I explore new technologies, contribute to open-source, an
 1. **LinkedIn:** [Hesbon Angwenyi](https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/)  
 2. **X / Twitter:** [@hesbonmanyi254](https://x.com/hesbonmanyi254)  
 3. **Mastodon:** [@HesbonAngwenyi](https://mastodon.social/@HesbonAngwenyi)  
-4. **Email:** [hesbonmanyinsa96@gmail.com](mailto:hesbonmanyinsa96@gmail.com)  
+4. **Email:** [hesbonmanyinsa96@gmail.com](mailto:hesbonmanyinsa96@gmail)  
 5. **WhatsApp:** [+254 743 573 380](https://wa.me/254743573380)  
 
 ---
 
 # 💼 What I’m Looking For
-I’m looking for **challenging roles** in:  
-- **Full-Stack Development** (React + Node + Cloud)  
-- **Backend Engineering** (Scalable APIs, Microservices)  
-- **DevOps / Cloud Engineering** (CI/CD, Kubernetes, Terraform)  
+I am seeking **roles that maximize my impact**, including:  
 
-I aim to **deliver impactful solutions**, work on **high-performance systems**, and contribute to **teams that value automation, scalability, and innovation**.
+- **Backend Engineer** – Building APIs, microservices, and distributed systems  
+- **DevOps / Cloud Engineer** – CI/CD pipelines, cloud automation, Kubernetes, Terraform  
+- **Full-Stack Developer** – End-to-end system design, high-performance web apps  
+
+**Work flexibility:** I am open to **remote, hybrid, or onsite roles**.  
+
+I bring measurable results in **reducing deployment time, optimizing cloud infrastructure, and improving system reliability**.
 
 ---
 
-# 🏆 Achievements
-- Successfully deployed **15+ microservices** in production across **multi-region Kubernetes clusters**.  
-- Reduced deployment time by **75%** with CI/CD pipeline automation.  
-- Built full-stack e-commerce platforms handling **1,000+ concurrent users** with secure payments.  
-- Designed cloud infrastructure with **auto-scaling, disaster recovery, and cost optimization**, reducing costs by **30%**.  
-- Contributor to multiple **open-source projects**, continuously improving coding standards and DevOps practices.
+# 🏆 Achievements & Metrics
+- Deployed **15+ microservices** in **multi-region Kubernetes clusters**  
+- Reduced deployment time by **75%** with automated CI/CD pipelines  
+- Scaled e-commerce platforms to support **1,000+ concurrent users** with secure payments  
+- Built cloud infrastructure with **auto-scaling, disaster recovery, and cost optimization**, reducing operational costs by **30%**  
+- Contributed to multiple **open-source projects**, enhancing coding standards and DevOps workflows  
 
 ---
 
@@ -99,31 +101,32 @@ I aim to **deliver impactful solutions**, work on **high-performance systems**, 
 # 📌 Featured Projects
 
 ### **DevOps Automation Suite**
-CI/CD pipeline automation with Docker, Kubernetes, and Terraform.  
-**Impact:** Reduced deployment time by 75%, deployed 15+ services across Kubernetes clusters.  
+Automated CI/CD pipeline using Docker, Kubernetes, Terraform.  
+**Impact:** Reduced deployment time by 75%, deployed 15+ services.  
 **Tech Stack:** Docker, Kubernetes, Terraform, AWS, CI/CD  
 [Live Demo](#) | [GitHub](#)
 
 ### **E-Commerce Platform**
-Full-stack e-commerce solution with React, Node.js, PostgreSQL.  
+Full-stack e-commerce platform with React, Node.js, PostgreSQL.  
 **Impact:** Handles 1,000+ concurrent users, integrated Stripe payments.  
 **Tech Stack:** React, Node.js, PostgreSQL, Stripe  
 [Live Demo](#) | [GitHub](#)
 
 ### **Microservices Architecture**
-Scalable microservices platform with API Gateway, service discovery, and distributed logging.  
-**Impact:** Improved API response times by 40%, supports auto-scaling services.  
+Scalable microservices with API Gateway, service discovery, and distributed logging.  
+**Impact:** Improved API response time by 40%, auto-scalable services.  
 **Tech Stack:** Node.js, Docker, Kong, MongoDB  
 [Live Demo](#) | [GitHub](#)
 
 ---
 
 # 💡 Why Hire Me?
-- Deliver **scalable and reliable solutions** under high load  
-- End-to-end expertise: **Frontend, Backend, Cloud Automation**  
-- Optimize **deployment pipelines** for efficiency and cost  
-- Fast learner, adaptable, and collaborative  
-- Work backed by **measurable impact metrics** in production  
+- Deliver **scalable, high-performance solutions**  
+- End-to-end expertise: **Frontend, Backend, Cloud, DevOps**  
+- Optimize **CI/CD pipelines** for speed and reliability  
+- Flexible for **remote, hybrid, or onsite roles**  
+- Fast learner, collaborative, and result-oriented  
+- Proven impact metrics in **production systems**
 
 ---
 
@@ -144,5 +147,3 @@ Scalable microservices platform with API Gateway, service discovery, and distrib
 
 ## 💰 Support My Work
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hesbonmanyinsa96@gmail)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
