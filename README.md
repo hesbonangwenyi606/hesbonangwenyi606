@@ -100,7 +100,7 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 **Tech Stack:** Node.js, Docker, Kong, MongoDB  
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://i.pinimg.com/736x/02/7b/dc/027bdc5719c47ff2fac09e1a5b1325e0.jpg" style="width: 300px; height: auto;">
+<img src="https://i.pinimg.com/736x/b5/b1/28/b5b1287d01e39e882bd54fa38f5e16c1.jpg" style="width: 300px; height: auto;">
 <img src="https://i.pinimg.com/1200x/6e/13/3c/6e133c91e7643119369d7274866f74ae.jpg" style="width:300px; height: auto;">
 </div>
 
