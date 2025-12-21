@@ -4,9 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+%7C+CI%2FCD+Automation;Python+%7C+TypeScript+%7C+JavaScript;I+Build+Scalable+Web+Applications)](https://git.io/typing-svg)
 
 # Hi, I'm Hesbon Angwenyi 👋
-I’m a **Full-Stack Software Engineer & DevOps Engineer** passionate about building scalable, high-performance web applications and automating cloud infrastructure to streamline deployments.  
+I’m a **Full-Stack Software Engineer & DevOps Engineer** passionate about building **scalable, high-performance applications** and automating cloud infrastructure to streamline deployments.  
 
-I work primarily with **TypeScript, Python, JavaScript**, and enjoy creating solutions that are **efficient, maintainable, and scalable**.  
+I work primarily with **TypeScript, Python, and JavaScript**, and enjoy creating solutions that are **efficient, maintainable, and production-ready**.  
 
 When I’m not coding, I explore new technologies, contribute to open-source, and experiment with **Docker, Kubernetes, Terraform**, and CI/CD pipelines to optimize workflows.
 
@@ -20,9 +20,26 @@ When I’m not coding, I explore new technologies, contribute to open-source, an
 
 ---
 
-# 💻 Tech Stack
+# 💼 What I’m Looking For
+I’m looking for **challenging roles** in:  
+- **Full-Stack Development** (React + Node + Cloud)  
+- **Backend Engineering** (Scalable APIs, Microservices)  
+- **DevOps / Cloud Engineering** (CI/CD, Kubernetes, Terraform)  
 
-## ⭐ Primary Stack
+I aim to **deliver impactful solutions**, work on **high-performance systems**, and contribute to **teams that value automation, scalability, and innovation**.
+
+---
+
+# 🏆 Achievements
+- Successfully deployed **15+ microservices** in production across **multi-region Kubernetes clusters**.  
+- Reduced deployment time by **75%** with CI/CD pipeline automation.  
+- Built full-stack e-commerce platforms handling **1,000+ concurrent users** with secure payments.  
+- Designed cloud infrastructure with **auto-scaling, disaster recovery, and cost optimization**, reducing costs by **30%**.  
+- Contributor to multiple **open-source projects**, continuously improving coding standards and DevOps practices.
+
+---
+
+# 💻 Tech Stack
 
 ### 🖥️ Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -52,36 +69,11 @@ When I’m not coding, I explore new technologies, contribute to open-source, an
 
 ---
 
-## ➕ Additional Experience / Familiar With
-
-### 🖥️ Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### ☁️ DevOps & Tools
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### 🧰 Tools & Practices
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-%2300ADD8.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
----
-
 # 📌 Featured Projects
 
 ### **DevOps Automation Suite**
-> Comprehensive CI/CD pipeline automation with Docker, Kubernetes, and Terraform.  
-> **Metrics:** Reduced deployment time by **75%**, deployed **15+ services** across Kubernetes clusters.
+> CI/CD pipeline automation with Docker, Kubernetes, and Terraform.  
+> **Impact:** Reduced deployment time by **75%**, deployed **15+ services** across Kubernetes clusters.
 
 **Tech Stack:**  
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
@@ -96,7 +88,7 @@ When I’m not coding, I explore new technologies, contribute to open-source, an
 
 ### **E-Commerce Platform**
 > Full-stack e-commerce solution with React, Node.js, PostgreSQL.  
-> **Metrics:** Handles **1,000+ concurrent users**, integrated Stripe payments.
+> **Impact:** Handles **1,000+ concurrent users**, integrated Stripe payments.
 
 **Tech Stack:**  
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
@@ -110,7 +102,7 @@ When I’m not coding, I explore new technologies, contribute to open-source, an
 
 ### **Microservices Architecture**
 > Scalable microservices platform with API Gateway, service discovery, and distributed logging.  
-> **Metrics:** Improved API response times by **40%**, supports auto-scaling services.
+> **Impact:** Improved API response times by **40%**, supports auto-scaling services.
 
 **Tech Stack:**  
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
@@ -119,6 +111,15 @@ When I’m not coding, I explore new technologies, contribute to open-source, an
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)
 
 [Live Demo](#) | [GitHub](#)
+
+---
+
+# 💡 Why Hire Me?
+- I deliver **scalable and reliable solutions** that perform under high load.  
+- I bring **end-to-end expertise**: Frontend, Backend, and Cloud automation.  
+- I optimize **deployment pipelines** to save time and cost.  
+- I **learn fast, adapt quickly**, and thrive in collaborative, innovative teams.  
+- My work is backed by **measurable impact metrics** in production environments.  
 
 ---
 
