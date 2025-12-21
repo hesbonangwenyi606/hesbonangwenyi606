@@ -70,7 +70,6 @@ Automated CI/CD pipeline using Docker, Kubernetes, Terraform.
 **Tech Stack:** Docker, Kubernetes, Terraform, AWS, CI/CD  
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://i.pinimg.com/1200x/bb/a6/2c/bba62c5a9d31c915f614499bca2fbba6.jpg" style="width: 300px; height: auto;">
 <img src="https://i.pinimg.com/736x/39/f2/57/39f257d7c2087b3659335965a43536b4.jpg" style="width: 300px; height: auto;">
 <img src="https://i.pinimg.com/736x/ef/bc/10/efbc10dba963d0a3ecba49b9f89e427a.jpg" style="width: 300px; height: auto;">
 </div>
@@ -88,7 +87,6 @@ Full-stack e-commerce platform with React, Node.js, PostgreSQL.
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://i.pinimg.com/736x/aa/db/0d/aadb0d5632986e66fb566453d6ea13a9.jpg" style="width: 300px; height: auto;">
 <img src="https://i.pinimg.com/736x/af/b0/4d/afb04de7b01f843c45abbc9ee08dc58e.jpg" style="width: 300px; height: auto;">
-<img src="https://i.pinimg.com/1200x/43/59/be/4359be63c618ee5a0267c35fdd775d80.jpg" style="width:300px; height: auto;">
 </div>
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-web-five-sepia.vercel.app/)  
@@ -102,7 +100,6 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 **Tech Stack:** Node.js, Docker, Kong, MongoDB  
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://i.pinimg.com/1200x/b4/08/8f/b4088f352cb90b43a68ba33b1c13ff86.jpg" style="width: 300px; height: auto;">
 <img src="https://i.pinimg.com/736x/02/7b/dc/027bdc5719c47ff2fac09e1a5b1325e0.jpg" style="width: 300px; height: auto;">
 <img src="https://i.pinimg.com/1200x/6e/13/3c/6e133c91e7643119369d7274866f74ae.jpg" style="width:300px; height: auto;">
 </div>
