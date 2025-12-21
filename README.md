@@ -81,7 +81,7 @@ Automated CI/CD pipeline using Docker, Kubernetes, Terraform.
 
 ### **E-Commerce Platform**
 Full-stack e-commerce platform with React, Node.js, PostgreSQL.  
-**Impact:** Handles 1,000+ concurrent users, integrated Stripe payments.  
+**Impact:** Handles 100+ concurrent users, integrated Stripe payments.  
 **Tech Stack:** React, Node.js, PostgreSQL, Stripe  
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
