@@ -3,15 +3,16 @@
 <!-- ⌨️ Animated Typing Roles --> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;Backend+%7C+Cloud+%7C+CI%2FCD;Python+%7C+Node.js+%7C+TypeScript;I+Deliver+Scalable+Solutions)](https://git.io/typing-svg)
 
-# 👋 About Me
+### About Me
 I’m **Hesbon Angwenyi**, a Full-Stack & DevOps Engineer who builds **scalable, high-performance applications** and automates **cloud infrastructure**.  
 I create **efficient, maintainable, and production-ready systems** using modern technologies and DevOps practices.  
 
-**What sets me apart:** measurable impact, strong end-to-end engineering, and expertise in automating deployment pipelines.
+## What sets me apart:
+measurable impact, strong end-to-end engineering, and expertise in automating deployment pipelines.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 1. **LinkedIn:** [Hesbon Angwenyi](https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/)  
 2. **X / Twitter:** [@hesbonmanyi254](https://x.com/hesbonmanyi254)  
 3. **Mastodon:** [@HesbonAngwenyi](https://mastodon.social/@HesbonAngwenyi)  
@@ -20,7 +21,7 @@ I create **efficient, maintainable, and production-ready systems** using modern 
 
 ---
 
-# 💼 What I’m Looking For
+# What I’m Looking For
 I am seeking **roles that maximize my impact**, including:  
 
 - **Backend Engineer** – Building APIs, microservices, and distributed systems  
@@ -44,7 +45,7 @@ I bring measurable results in **reducing deployment time, optimizing cloud infra
 
 # 💻 Tech Stack
 
-### 🖥️ Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) 
@@ -56,7 +57,7 @@ I bring measurable results in **reducing deployment time, optimizing cloud infra
 
 ---
 
-### ⚙️ Backend
+###  Backend
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -69,7 +70,7 @@ I bring measurable results in **reducing deployment time, optimizing cloud infra
 
 ---
 
-### ☁️ DevOps
+###  DevOps
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white)
@@ -82,7 +83,7 @@ I bring measurable results in **reducing deployment time, optimizing cloud infra
 
 ---
 
-### 🗄️ Databases
+###  Databases
 ![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -90,7 +91,7 @@ I bring measurable results in **reducing deployment time, optimizing cloud infra
 
 ---
 
-### 🧰 Tools & Others
+### Tools & Others
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
@@ -98,29 +99,29 @@ I bring measurable results in **reducing deployment time, optimizing cloud infra
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
 ### **DevOps Automation Suite**
 Automated CI/CD pipeline using Docker, Kubernetes, Terraform.  
 **Impact:** Reduced deployment time by 75%, deployed 15+ services.  
 **Tech Stack:** Docker, Kubernetes, Terraform, AWS, CI/CD  
-[Live Demo](#) | [GitHub](#)
+[Live Demo](https://deploy-cloud-tools.vercel.app/) | [GitHub](https://github.com/hesbonangwenyi606/deploy-cloud-tools.git)
 
 ### **E-Commerce Platform**
 Full-stack e-commerce platform with React, Node.js, PostgreSQL.  
 **Impact:** Handles 1,000+ concurrent users, integrated Stripe payments.  
 **Tech Stack:** React, Node.js, PostgreSQL, Stripe  
-[Live Demo](#) | [GitHub](#)
+[Live Demo](https://ecommerce-web-five-sepia.vercel.app/) | [GitHub](https://github.com/hesbonangwenyi606/Ecommerce-web.git)
 
 ### **Microservices Architecture**
 Scalable microservices with API Gateway, service discovery, and distributed logging.  
 **Impact:** Improved API response time by 40%, auto-scalable services.  
 **Tech Stack:** Node.js, Docker, Kong, MongoDB  
-[Live Demo](#) | [GitHub](#)
+[Live Demo](https://scalable-docker-logging.vercel.app/) | [GitHub](https://github.com/hesbonangwenyi606/scalable-docker-logging.git)
 
 ---
 
-# 💡 Why Hire Me?
+## Why Hire Me?
 - Deliver **scalable, high-performance solutions**  
 - End-to-end expertise: **Frontend, Backend, Cloud, DevOps**  
 - Optimize **CI/CD pipelines** for speed and reliability  
@@ -138,7 +139,7 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hesbonangwenyi606&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
