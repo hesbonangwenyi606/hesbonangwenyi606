@@ -37,7 +37,6 @@ I bring measurable results in **reducing deployment time, optimizing cloud infra
 # 🏆 Achievements & Metrics
 - Deployed **15+ microservices** in **multi-region Kubernetes clusters**  
 - Reduced deployment time by **75%** with automated CI/CD pipelines  
-- Scaled e-commerce platforms to support **1,000+ concurrent users** with secure payments  
 - Built cloud infrastructure with **auto-scaling, disaster recovery, and cost optimization**, reducing operational costs by **30%**  
 - Contributed to multiple **open-source projects**, enhancing coding standards and DevOps workflows  
 
