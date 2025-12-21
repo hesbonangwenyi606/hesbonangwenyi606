@@ -8,7 +8,7 @@ I’m **Hesbon Angwenyi**, a Full-Stack & DevOps Engineer who builds **scalable,
 I create **efficient, maintainable, and production-ready systems** using modern technologies and DevOps practices.  
 
 ## What sets me apart:
-measurable impact, strong end-to-end engineering, and expertise in automating deployment pipelines.
+Measurable impact, strong end-to-end engineering, and expertise in automating deployment pipelines.
 
 ---
 
@@ -56,7 +56,7 @@ I bring measurable results in **reducing deployment time, optimizing cloud infra
 
 ---
 
-###  Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -69,7 +69,7 @@ I bring measurable results in **reducing deployment time, optimizing cloud infra
 
 ---
 
-###  DevOps
+### DevOps
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white)
@@ -82,7 +82,7 @@ I bring measurable results in **reducing deployment time, optimizing cloud infra
 
 ---
 
-###  Databases
+### Databases
 ![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -104,18 +104,24 @@ I bring measurable results in **reducing deployment time, optimizing cloud infra
 Automated CI/CD pipeline using Docker, Kubernetes, Terraform.  
 **Impact:** Reduced deployment time by 75%, deployed 15+ services.  
 **Tech Stack:** Docker, Kubernetes, Terraform, AWS, CI/CD  
+**Screenshots:**  
+![Screenshot ](https://i.pinimg.com/1200x/bb/a6/2c/bba62c5a9d31c915f614499bca2fbba6.jpg) ![Screenshot ](https://i.pinimg.com/1200x/e0/9d/fa/e09dfaf97cc1cb87a36fb9c252d0242a.jpg)  
 [Live Demo](https://deploy-cloud-tools.vercel.app/) | [GitHub](https://github.com/hesbonangwenyi606/deploy-cloud-tools.git)
 
 ### **E-Commerce Platform**
 Full-stack e-commerce platform with React, Node.js, PostgreSQL.  
 **Impact:** Handles 1,000+ concurrent users, integrated Stripe payments.  
 **Tech Stack:** React, Node.js, PostgreSQL, Stripe  
+**Screenshots:**  
+![Screenshot ](https://i.pinimg.com/736x/aa/db/0d/aadb0d5632986e66fb566453d6ea13a9.jpg) ![Screenshot ](https://i.pinimg.com/736x/af/b0/4d/afb04de7b01f843c45abbc9ee08dc58e.jpg)  
 [Live Demo](https://ecommerce-web-five-sepia.vercel.app/) | [GitHub](https://github.com/hesbonangwenyi606/Ecommerce-web.git)
 
 ### **Microservices Architecture**
 Scalable microservices with API Gateway, service discovery, and distributed logging.  
 **Impact:** Improved API response time by 40%, auto-scalable services.  
 **Tech Stack:** Node.js, Docker, Kong, MongoDB  
+**Screenshots:**  
+![Screenshot ](https://i.pinimg.com/736x/58/2e/b2/582eb20508be71529ee789fa38827e34.jpg) ![Screenshot ](https://i.pinimg.com/736x/02/7b/dc/027bdc5719c47ff2fac09e1a5b1325e0.jpg)  
 [Live Demo](https://scalable-docker-logging.vercel.app/) | [GitHub](https://github.com/hesbonangwenyi606/scalable-docker-logging.git)
 
 ---
