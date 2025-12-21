@@ -44,24 +44,7 @@ I’m currently open to **Full Stack**, **Backend**, or **DevOps-focused Softwar
 
 ---
 
-# 💻 Tech Stack
-
-### 🖥️ Frontend
-HTML5 · CSS3 · TailwindCSS · JavaScript · TypeScript · React · Next.js
-
-### ⚙️ Backend
-Node.js · Express.js · Python · Java · C++ · PHP · REST APIs · GraphQL
-
-### ☁️ DevOps & Cloud
-Docker · Kubernetes · Terraform · Ansible · CI/CD · Git · GitHub · AWS · Azure
-
-### 🗄️ Databases
-MongoDB · MySQL · PostgreSQL · Redis
-
-### 🧰 Tools & Practices
-Figma · Postman · Swagger · Agile / Scrum
-
----
+### ☁️ DevOps ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) --- ### 🗄️ Databases ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) --- ### 🧰 Tools & Others ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black) ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-%2300ADD8.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ## 📌 Featured Projects
 > A selection of projects that demonstrate real-world engineering, scalability, and DevOps practices.
