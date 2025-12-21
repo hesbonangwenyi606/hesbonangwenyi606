@@ -106,14 +106,8 @@ Automated CI/CD pipeline using Docker, Kubernetes, Terraform.
 **Tech Stack:** Docker, Kubernetes, Terraform, AWS, CI/CD  
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <figure style="margin:0; width:250px;">
-    <img src="https://i.pinimg.com/1200x/bb/a6/2c/bba62c5a9d31c915f614499bca2fbba6.jpg" style="width:100%; border-radius:8px;" />
-    <figcaption style="text-align:center; font-size:12px; margin-top:4px;">Dashboard View</figcaption>
-  </figure>
-  <figure style="margin:0; width:250px;">
-    <img src="https://i.pinimg.com/1200x/e0/9d/fa/e09dfaf97cc1cb87a36fb9c252d0242a.jpg" style="width:100%; border-radius:8px;" />
-    <figcaption style="text-align:center; font-size:12px; margin-top:4px;">CI/CD Overview</figcaption>
-  </figure>
+  <img src="https://i.pinimg.com/1200x/bb/a6/2c/bba62c5a9d31c915f614499bca2fbba6.jpg" style="max-width: 100%; width: 300px; height: auto;" />
+  <img src="https://i.pinimg.com/1200x/e0/9d/fa/e09dfaf97cc1cb87a36fb9c252d0242a.jpg" style="max-width: 100%; width: 300px; height: auto;" />
 </div>
 [Live Demo](https://deploy-cloud-tools.vercel.app/) | [GitHub](https://github.com/hesbonangwenyi606/deploy-cloud-tools.git)
 
@@ -123,14 +117,8 @@ Full-stack e-commerce platform with React, Node.js, PostgreSQL.
 **Tech Stack:** React, Node.js, PostgreSQL, Stripe  
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <figure style="margin:0; width:250px;">
-    <img src="https://i.pinimg.com/736x/aa/db/0d/aadb0d5632986e66fb566453d6ea13a9.jpg" style="width:100%; border-radius:8px;" />
-    <figcaption style="text-align:center; font-size:12px; margin-top:4px;">Home Page</figcaption>
-  </figure>
-  <figure style="margin:0; width:250px;">
-    <img src="https://i.pinimg.com/736x/af/b0/4d/afb04de7b01f843c45abbc9ee08dc58e.jpg" style="width:100%; border-radius:8px;" />
-    <figcaption style="text-align:center; font-size:12px; margin-top:4px;">Product Page</figcaption>
-  </figure>
+  <img src="https://i.pinimg.com/736x/aa/db/0d/aadb0d5632986e66fb566453d6ea13a9.jpg" style="max-width: 100%; width: 300px; height: auto;" />
+  <img src="https://i.pinimg.com/736x/af/b0/4d/afb04de7b01f843c45abbc9ee08dc58e.jpg" style="max-width: 100%; width: 300px; height: auto;" />
 </div>
 [Live Demo](https://ecommerce-web-five-sepia.vercel.app/) | [GitHub](https://github.com/hesbonangwenyi606/Ecommerce-web.git)
 
@@ -140,14 +128,8 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 **Tech Stack:** Node.js, Docker, Kong, MongoDB  
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <figure style="margin:0; width:250px;">
-    <img src="https://i.pinimg.com/736x/58/2e/b2/582eb20508be71529ee789fa38827e34.jpg" style="width:100%; border-radius:8px;" />
-    <figcaption style="text-align:center; font-size:12px; margin-top:4px;">API Gateway</figcaption>
-  </figure>
-  <figure style="margin:0; width:250px;">
-    <img src="https://i.pinimg.com/736x/02/7b/dc/027bdc5719c47ff2fac09e1a5b1325e0.jpg" style="width:100%; border-radius:8px;" />
-    <figcaption style="text-align:center; font-size:12px; margin-top:4px;">Logging & Metrics</figcaption>
-  </figure>
+  <img src="https://i.pinimg.com/736x/58/2e/b2/582eb20508be71529ee789fa38827e34.jpg" style="max-width: 100%; width: 300px; height: auto;" />
+  <img src="https://i.pinimg.com/736x/02/7b/dc/027bdc5719c47ff2fac09e1a5b1325e0.jpg" style="max-width: 100%; width: 300px; height: auto;" />
 </div>
 [Live Demo](https://scalable-docker-logging.vercel.app/) | [GitHub](https://github.com/hesbonangwenyi606/scalable-docker-logging.git)
 
