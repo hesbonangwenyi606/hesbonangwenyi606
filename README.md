@@ -70,7 +70,7 @@ Automated CI/CD pipeline using Docker, Kubernetes, Terraform.
 **Tech Stack:** Docker, Kubernetes, Terraform, AWS, CI/CD  
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://i.pinimg.com/736x/39/f2/57/39f257d7c2087b3659335965a43536b4.jpg" style="width: 300px; height: auto;">
+<img src="https://i.pinimg.com/736x/77/94/9d/77949dc9e96c04011e92e3b4f3893dc4.jpg" style="width: 300px; height: auto;">
 <img src="https://i.pinimg.com/736x/ef/bc/10/efbc10dba963d0a3ecba49b9f89e427a.jpg" style="width: 300px; height: auto;">
 </div>
 
@@ -101,7 +101,7 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://i.pinimg.com/736x/b5/b1/28/b5b1287d01e39e882bd54fa38f5e16c1.jpg" style="width: 300px; height: auto;">
-<img src="https://i.pinimg.com/1200x/6e/13/3c/6e133c91e7643119369d7274866f74ae.jpg" style="width:300px; height: auto;">
+<img src="https://i.pinimg.com/736x/18/f2/6c/18f26c98e556c524dc6c335ff4f7a7eb.jpg" style="width:300px; height: auto;">
 </div>
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://scalable-docker-logging.vercel.app/)  
