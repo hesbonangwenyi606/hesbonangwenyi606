@@ -6,10 +6,10 @@
 ---
 
 ## About Me
-I’m **Hesbon Angwenyi**, a Full-Stack & DevOps Engineer who builds **scalable, high-performance applications** and automates **cloud infrastructure**.  
-I create **efficient, maintainable, and production-ready systems** using modern technologies and DevOps practices.  
+I’m Hesbon Angwenyi, a Full-Stack|DevOps Engineer passionate about building **scalable,** **high-performance applications** and **automating cloud infrastructure.**
+I design and deliver **efficient,** **maintainable,** and **production-ready systems** using modern technologies and DevOps practices.
 
-**What sets me apart:** measurable impact, strong end-to-end engineering, and expertise in automating deployment pipelines.
+**What sets me apart:** a focus on measurable impact, end-to-end engineering expertise, and automation of deployment pipelines for seamless delivery.
 
 ---
 
@@ -87,7 +87,6 @@ Full-stack e-commerce platform with React, Node.js, PostgreSQL.
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://i.pinimg.com/736x/aa/db/0d/aadb0d5632986e66fb566453d6ea13a9.jpg" style="width: 300px; height: auto;">
 <img src="https://i.pinimg.com/736x/af/b0/4d/afb04de7b01f843c45abbc9ee08dc58e.jpg" style="width: 300px; height: auto;">
-  <img src="https://i.pinimg.com/736x/af/b0/4d/afb04de7b01f843c45abbc9ee08dc58e.jpg" style="width: 300px; height: auto;">
 </div>
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-web-five-sepia.vercel.app/)  
