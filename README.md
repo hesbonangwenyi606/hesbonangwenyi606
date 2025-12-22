@@ -31,7 +31,7 @@ I am seeking **roles that maximize my impact**, including:
 
 
 ## 🏆 Achievements & Metrics
-- Deployed **15+ microservices** in **multi-region Kubernetes clusters**  
+- Deployed **microservices** in **multi-region Kubernetes clusters**  
 - Reduced deployment time by **75%** with automated CI/CD pipelines  
 - Built cloud infrastructure with **auto-scaling, disaster recovery, and cost optimization**, reducing operational costs by **30%**  
 - Contributed to multiple **open-source projects**, enhancing coding standards and DevOps workflows  
