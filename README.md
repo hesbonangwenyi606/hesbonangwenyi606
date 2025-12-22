@@ -3,15 +3,12 @@
 <!-- ⌨️ Animated Typing Roles -->  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;Backend+%7C+Cloud+%7C+CI%2FCD;Python+%7C+Node.js+%7C+TypeScript;I+Deliver+Scalable+Solutions)](https://git.io/typing-svg)
 
----
 
 ## About Me
 I’m Hesbon Angwenyi, a Full-Stack|DevOps Engineer passionate about building **scalable,** **high-performance applications** and **automating cloud infrastructure.**
 I design and deliver **efficient,** **maintainable,** and **production-ready systems** using modern technologies and DevOps practices.
 
 **What sets me apart:** a focus on measurable impact, end-to-end engineering expertise, and automation of deployment pipelines for seamless delivery.
-
----
 
 ## Connect With Me
 - **LinkedIn:** [Hesbon Angwenyi](https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/)  
@@ -20,7 +17,6 @@ I design and deliver **efficient,** **maintainable,** and **production-ready sys
 - **Email:** [hesbonmanyinsa96@gmail.com](mailto:hesbonmanyinsa96@gmail)  
 - **WhatsApp:** [+254 743 573 380](https://wa.me/254743573380)  
 
----
 
 ## What I’m Looking For
 I am seeking **roles that maximize my impact**, including:  
@@ -33,7 +29,6 @@ I am seeking **roles that maximize my impact**, including:
 
 **Impact:** reducing deployment time, optimizing cloud infrastructure, and improving system reliability.
 
----
 
 ## 🏆 Achievements & Metrics
 - Deployed **15+ microservices** in **multi-region Kubernetes clusters**  
@@ -41,7 +36,6 @@ I am seeking **roles that maximize my impact**, including:
 - Built cloud infrastructure with **auto-scaling, disaster recovery, and cost optimization**, reducing operational costs by **30%**  
 - Contributed to multiple **open-source projects**, enhancing coding standards and DevOps workflows  
 
----
 
 ## 💻 Tech Stack
 
@@ -60,7 +54,6 @@ I am seeking **roles that maximize my impact**, including:
 ### Tools & Others
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Agile / Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-00ADD8?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
----
 
 # Featured Projects
 
@@ -92,7 +85,6 @@ Full-stack e-commerce platform with React, Node.js, PostgreSQL.
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-web-five-sepia.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hesbonangwenyi606/Ecommerce-web.git)
 
----
 
 ### **Microservices Architecture**
 Scalable microservices with API Gateway, service discovery, and distributed logging.  
@@ -117,8 +109,6 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 - Fast learner, collaborative, and result-oriented  
 - Proven impact metrics in **production systems**
 
----
-
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hesbonangwenyi606&theme=dark&hide_border=false)<br/>
@@ -130,7 +120,6 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
 [![](https://visitcount.itsvg.in/api?id=hesbonangwenyi606&icon=0&color=0)](https://visitcount.itsvg.in)
 
