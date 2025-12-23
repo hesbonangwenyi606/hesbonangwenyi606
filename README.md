@@ -79,7 +79,7 @@ Optimized performance with Vite, styled with Tailwind CSS, and deployed on Verce
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://i.pinimg.com/1200x/49/28/3d/49283dd9e7e5fd9aac1b41b65993f691.jpg" style="width: 300px; height: auto;">
-<img src="https://i.pinimg.com/1200x/9d/58/a4/9d58a484149cedf2a3ba33d28b7b847a.jpg" style="width: 300px; height: auto;">
+<img src="https://i.pinimg.com/736x/81/6c/a9/816ca93210a6be6aa256fecb60eb5680.jpg" style="width: 300px; height: auto;">
 </div>
 [![Live Demo](https://safaricom-queue-system-6awf.vercel.app/)  
 [![GitHub](https://github.com/hesbonangwenyi606/safaricom-queue-system)
