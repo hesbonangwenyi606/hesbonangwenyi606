@@ -1,7 +1,7 @@
 ![Welcome To My GitHub Profile](https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=wave)
 
 <!-- ⌨️ Animated Typing Roles -->  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;Backend+%7C+Cloud+%7C+CI%2FCD;Python+%7C+Node.js+%7C+TypeScript;I+Deliver+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;Backend+%7C+Cloud+%7C+CI%2FCD;Python+%7C+Javascript+%7C+TypeScript;I+Deliver+Scalable+Solutions)](https://git.io/typing-svg)
 
 
 ## About Me
@@ -80,7 +80,7 @@ Automated customer queue ticket generation with real-time position tracking for 
 
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://i.pinimg.com/1200x/49/28/3d/49283dd9e7e5fd9aac1b41b65993f691.jpg" width="300" />
+  <img src="https://i.pinimg.com/1200x/49/28/3d/49283dd9e7e5fd9aac1b41b65993f691.jpg" width="400" />
   <img src="https://i.pinimg.com/1200x/b0/06/58/b006581c63305fdcb06b2925c2e2736c.jpg" width="300" />
 </div>
 
