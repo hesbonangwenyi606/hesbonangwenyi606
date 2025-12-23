@@ -52,7 +52,7 @@ I am seeking **roles that maximize my impact**, including:
 ![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools & Others
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Agile / Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-00ADD8?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-00ADD8?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 
 # Featured Projects
@@ -85,7 +85,7 @@ Full-stack e-commerce platform with React, Node.js, PostgreSQL.
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-web-five-sepia.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hesbonangwenyi606/Ecommerce-web.git)
 
-
+---
 ### **Microservices Architecture**
 Scalable microservices with API Gateway, service discovery, and distributed logging.  
 **Impact:** Improved API response time by 40%, auto-scalable services.  
@@ -125,3 +125,4 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 
 ## 💰 Support My Work
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hesbonmanyinsa96@gmail)
+[![M-Pesa](https://img.shields.io/badge/M--Pesa-00A650?style=for-the-badge&logo=mpesa&logoColor=white)](tel:+254743573380)
