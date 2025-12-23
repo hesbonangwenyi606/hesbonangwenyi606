@@ -73,16 +73,20 @@ Automated CI/CD pipeline using Docker, Kubernetes, Terraform.
 ---
 
 ## Safaricom Queue Management System
-Frontend Developer | React, TypeScript, Vite, Tailwind CSS
-Built a responsive web-based queue management system inspired by Safaricom retail shops, enabling real-time ticket generation and queue tracking.
+**Frontend Developer | React, TypeScript, Vite, Tailwind CSS**
+
+Built a responsive web-based queue management system inspired by Safaricom retail shops, enabling real-time ticket generation and queue tracking.  
 Optimized performance with Vite, styled with Tailwind CSS, and deployed on Vercel.
-**Screenshots:**  
+
+### Screenshots
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://i.pinimg.com/1200x/49/28/3d/49283dd9e7e5fd9aac1b41b65993f691.jpg" style="width: 400px; height: auto;">
-<img src="https://i.pinimg.com/1200x/b0/06/58/b006581c63305fdcb06b2925c2e2736c.jpg" style="width: 300px; height: auto;">
+  <img src="https://i.pinimg.com/1200x/49/28/3d/49283dd9e7e5fd9aac1b41b65993f691.jpg" width="400" />
+  <img src="https://i.pinimg.com/1200x/b0/06/58/b006581c63305fdcb06b2925c2e2736c.jpg" width="300" />
 </div>
-[![Live Demo](https://safaricom-queue-system-6awf.vercel.app/)  
-[![GitHub](https://github.com/hesbonangwenyi606/safaricom-queue-system)
+
+🔗 **Live Demo:** https://safaricom-queue-system-6awf.vercel.app/  
+💻 **GitHub Repository:** https://github.com/hesbonangwenyi606/safaricom-queue-system
+
 
 ---
 ### **Microservices Architecture**
