@@ -78,7 +78,7 @@ Built a responsive web-based queue management system inspired by Safaricom retai
 Optimized performance with Vite, styled with Tailwind CSS, and deployed on Vercel.
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://i.pinimg.com/736x/ab/65/34/ab6534bb06b70164268800391f9dab6a.jpg" style="width: 300px; height: auto;">
+<img src="https://i.pinimg.com/1200x/49/28/3d/49283dd9e7e5fd9aac1b41b65993f691.jpg" style="width: 300px; height: auto;">
 <img src="https://i.pinimg.com/1200x/20/4c/06/204c0681a74f25c2df929e0a803a2e48.jpg" style="width: 300px; height: auto;">
 </div>
 [![Live Demo](https://safaricom-queue-system-6awf.vercel.app/)  
