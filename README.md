@@ -72,18 +72,17 @@ Automated CI/CD pipeline using Docker, Kubernetes, Terraform.
 
 ---
 
-### **E-Commerce Platform**
-Full-stack e-commerce platform with React, Node.js, PostgreSQL.  
-**Impact:** Handles 100+ concurrent users, integrated Stripe payments.  
-**Tech Stack:** React, Node.js, PostgreSQL, Stripe  
+## Safaricom Queue Management System
+Frontend Developer | React, TypeScript, Vite, Tailwind CSS
+Built a responsive web-based queue management system inspired by Safaricom retail shops, enabling real-time ticket generation and queue tracking.
+Optimized performance with Vite, styled with Tailwind CSS, and deployed on Vercel.
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://i.pinimg.com/736x/aa/db/0d/aadb0d5632986e66fb566453d6ea13a9.jpg" style="width: 300px; height: auto;">
 <img src="https://i.pinimg.com/736x/af/b0/4d/afb04de7b01f843c45abbc9ee08dc58e.jpg" style="width: 300px; height: auto;">
 </div>
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-web-five-sepia.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hesbonangwenyi606/Ecommerce-web.git)
+[![Live Demo](https://safaricom-queue-system-6awf.vercel.app/)  
+[![GitHub](https://github.com/hesbonangwenyi606/safaricom-queue-system)
 
 ---
 ### **Microservices Architecture**
