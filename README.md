@@ -73,7 +73,6 @@ Automated CI/CD pipeline using Docker, Kubernetes, Terraform.
 ---
 ## **Safaricom Queue Management System**
 Web-Based Queue Management Application  
-
 Automated customer queue ticket generation with real-time position tracking for retail service environments.  
 **Impact:** Improved customer flow visibility and reduced wait-time confusion.  
 **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Vercel  
