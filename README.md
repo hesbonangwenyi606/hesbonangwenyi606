@@ -75,7 +75,7 @@ Automated CI/CD pipeline using Docker, Kubernetes, Terraform.
 Web-Based Queue Management Application  
 Automated customer queue ticket generation with real-time position tracking for retail service environments.  
 **Impact:** Improved customer flow visibility and reduced wait-time confusion.  
-**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Vercel  
+**Tech Stack:** React, TypeScript, Vite, Tailwind CSS
 
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -91,7 +91,7 @@ Automated customer queue ticket generation with real-time position tracking for 
 ### **Microservices Architecture**
 Scalable microservices with API Gateway, service discovery, and distributed logging.  
 **Impact:** Improved API response time by 40%, auto-scalable services.  
-**Tech Stack:** Node.js, Docker, Kong, MongoDB  
+**Tech Stack:** Node.js, Docker, MongoDB  
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://i.pinimg.com/736x/b5/b1/28/b5b1287d01e39e882bd54fa38f5e16c1.jpg" style="width: 300px; height: auto;">
