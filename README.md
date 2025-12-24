@@ -102,7 +102,6 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hesbonangwenyi606/scalable-docker-logging.git)
 
 ---
-
 ## Why Hire Me?
 - Deliver **scalable, high-performance solutions**  
 - End-to-end expertise: **Frontend, Backend, Cloud, DevOps**  
