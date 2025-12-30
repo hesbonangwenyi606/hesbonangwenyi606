@@ -79,7 +79,7 @@ Automated customer queue ticket generation with real-time position tracking for 
 
 **Screenshots:**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://i.pinimg.com/1200x/49/28/3d/49283dd9e7e5fd9aac1b41b65993f691.jpg" width="269" />
+  <img src="https://i.pinimg.com/1200x/49/28/3d/49283dd9e7e5fd9aac1b41b65993f691.jpg" width="267" />
   <img src="https://i.pinimg.com/1200x/b0/06/58/b006581c63305fdcb06b2925c2e2736c.jpg" width="200" />
 </div>
 
