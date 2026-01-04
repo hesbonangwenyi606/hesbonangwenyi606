@@ -12,7 +12,8 @@
 
 ## 🏆 Achievements & Metrics - Deployed **microservices** in **multi-region Kubernetes clusters** - Reduced deployment time by **75%** with automated CI/CD pipelines - Built cloud infrastructure with **auto-scaling, disaster recovery, and cost optimization**, reducing operational costs by **30%** - Contributed to multiple **open-source projects**, enhancing coding standards and DevOps workflows
 
-## 💻 Tech Stack ### Frontend
+## 💻 Tech Stack 
+---### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 --- ### Backend
@@ -42,11 +43,11 @@ Deliver **scalable, high-performance solutions** - End-to-end expertise: **Front
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.demolab.com/api?username=hesbonangwenyi606&show_icons=true&theme=radical&count_private=true"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesbonangwenyi606&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.demolab.com/api/top-langs/?username=hesbonangwenyi606&layout=compact&theme=radical"
     height="170"
   />
 </p>
