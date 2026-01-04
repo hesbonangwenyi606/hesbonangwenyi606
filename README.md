@@ -115,8 +115,13 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 ![](https://nirzak-streak-stats.vercel.app/?user=hesbonangwenyi606&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hesbonangwenyi606&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hesbonangwenyi606&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🟩 Contribution Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hesbonangwenyi606&theme=github-compact)
+
+---
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=hesbonangwenyi606&theme=radical&margin-w=8)
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
