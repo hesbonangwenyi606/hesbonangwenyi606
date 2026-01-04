@@ -22,25 +22,24 @@ I specialize in **backend systems, cloud automation, CI/CD pipelines**, and **mo
 ---
 
 ## 🎯 What I’m Looking For
-- **Backend Engineer** (APIs, Microservices, Distributed Systems)
-- **DevOps / Cloud Engineer** (CI/CD, Kubernetes, Terraform, AWS)
-- **Full-Stack Engineer** (End-to-End system ownership)
+- **Backend Engineer** – APIs, Microservices, Distributed Systems  
+- **DevOps / Cloud Engineer** – CI/CD, Kubernetes, Terraform, AWS  
+- **Full-Stack Engineer** – End-to-End ownership  
 
 ✔ Remote | Hybrid | Onsite  
 ✔ Impact-driven engineering roles
 
 ---
 
-## 🏆 Engineering Impact (Verified)
-- 🚀 Reduced deployment time by **75%** via CI/CD automation  
-- ☁️ Cut cloud infrastructure costs by **30%**  
+## 🏆 Engineering Impact
+- 🚀 Reduced deployment time by **75%** using CI/CD automation  
+- ☁️ Reduced cloud costs by **30%** through optimized infrastructure  
 - 🌍 Deployed **multi-region Kubernetes microservices**  
-- 🔧 Built **15+ production services**  
-- 🌱 Active contributor to open-source & internal tooling  
+- 🔧 Built and deployed **15+ production services**  
 
 ---
 
-## 🧠 Core Tech Stack
+## 🧠 Tech Stack
 
 ### Frontend
 HTML • CSS • TailwindCSS • JavaScript • TypeScript • React • Next.js • Vue
@@ -59,49 +58,76 @@ Git • GitHub • Postman • Figma • Agile/Scrum
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 DevOps Automation Suite
-**Automated CI/CD pipelines with Docker, Kubernetes & Terraform**
+## 🔹 DevOps Automation Suite
+**Automated CI/CD pipelines using Docker, Kubernetes & Terraform**
 
+**Impact**
 - Reduced deployment time by **75%**
-- Deployed **15+ services**
+- Deployed **15+ microservices**
 - Multi-environment infrastructure
 
-**Tech:** Docker • Kubernetes • Terraform • AWS • GitHub Actions  
-🔗 Live: https://deploy-cloud-tools.vercel.app/  
-🔗 Code: https://github.com/hesbonangwenyi606/deploy-cloud-tools.git
+**Tech Stack**
+Docker • Kubernetes • Terraform • AWS • GitHub Actions
+
+### 📸 Screenshots
+<p align="center">
+  <img src="https://i.pinimg.com/736x/77/94/9d/77949dc9e96c04011e92e3b4f3893dc4.jpg" width="320"/>
+  <img src="https://i.pinimg.com/736x/e1/18/2e/e1182e10bdbeaaa642b50a5a1f5ce289.jpg" width="320"/>
+</p>
+
+🔗 **Live Demo:** https://deploy-cloud-tools.vercel.app/  
+🔗 **GitHub:** https://github.com/hesbonangwenyi606/deploy-cloud-tools.git
 
 ---
 
-### 🔹 Safaricom Queue Management System
-**Web-based real-time customer queue system**
+## 🔹 Safaricom Queue Management System
+**Web-based real-time customer queue management system**
 
-- Improved service flow visibility
-- Reduced wait-time confusion
+**Impact**
+- Improved service flow visibility  
+- Reduced customer wait-time confusion  
 
-**Tech:** React • TypeScript • Vite • Tailwind  
-🔗 Live: https://safaricom-queue-system-6awf.vercel.app/  
-🔗 Code: https://github.com/hesbonangwenyi606/safaricom-queue-system
+**Tech Stack**
+React • TypeScript • Vite • Tailwind CSS
 
----
+### 📸 Screenshots
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/49/28/3d/49283dd9e7e5fd9aac1b41b65993f691.jpg" width="260"/>
+  <img src="https://i.pinimg.com/1200x/b0/06/58/b006581c63305fdcb06b2925c2e2736c.jpg" width="260"/>
+</p>
 
-### 🔹 Microservices Architecture
-**Scalable microservices with distributed logging**
-
-- 40% API response time improvement
-- Auto-scaling services
-
-**Tech:** Node.js • Docker • MongoDB  
-🔗 Live: https://scalable-docker-logging.vercel.app/  
-🔗 Code: https://github.com/hesbonangwenyi606/scalable-docker-logging.git
+🔗 **Live Demo:** https://safaricom-queue-system-6awf.vercel.app/  
+🔗 **GitHub:** https://github.com/hesbonangwenyi606/safaricom-queue-system
 
 ---
 
-## 📊 GitHub Statistics (Working & Reliable)
+## 🔹 Microservices Architecture
+**Scalable microservices with API Gateway & distributed logging**
+
+**Impact**
+- Improved API response time by **40%**
+- Auto-scalable services with container orchestration
+
+**Tech Stack**
+Node.js • Docker • MongoDB
+
+### 📸 Screenshots
+<p align="center">
+  <img src="https://i.pinimg.com/736x/b5/b1/28/b5b1287d01e39e882bd54fa38f5e16c1.jpg" width="240"/>
+  <img src="https://i.pinimg.com/736x/18/f2/6c/18f26c98e556c524dc6c335ff4f7a7eb.jpg" width="240"/>
+</p>
+
+🔗 **Live Demo:** https://scalable-docker-logging.vercel.app/  
+🔗 **GitHub:** https://github.com/hesbonangwenyi606/scalable-docker-logging.git
+
+---
+
+## 📊 GitHub Statistics
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hesbonangwenyi606&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hesbonangwenyi606&theme=dark)
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&show_icons=true&theme=dark&count_private=true&v=1)
@@ -137,4 +163,4 @@ Git • GitHub • Postman • Figma • Agile/Scrum
 
 ---
 
-⭐ **If you’re a recruiter or collaborator — let’s build scalable systems together.**
+⭐ **Let’s build scalable, high-impact systems together.**
