@@ -81,7 +81,7 @@ Automated CI/CD pipeline using Docker, Kubernetes, Terraform.
   <img src="https://i.pinimg.com/736x/77/94/9d/77949dc9e96c04011e92e3b4f3893dc4.jpg" style="width: 300px; height: auto;">
   <img src="https://i.pinimg.com/736x/e1/18/2e/e1182e10bdbeaaa642b50a5a1f5ce289.jpg" style="width: 300px; height: auto;">
 </div>
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://deploy-cloud-tools.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://deploy-cloud-tools.vercel.app/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hesbonangwenyi606/deploy-cloud-tools.git)
 
 ### Safaricom Queue Management System
@@ -108,21 +108,6 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://scalable-docker-logging.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hesbonangwenyi606/scalable-docker-logging.git)
 
-## Why Hire Me?
-- Deliver **scalable, high-performance solutions**  
-- End-to-end expertise: **Frontend, Backend, Cloud, DevOps**  
-- Optimize **CI/CD pipelines** for speed and reliability  
-- Flexible for **remote, hybrid, or onsite roles**  
-- Fast learner, collaborative, and result-oriented  
-- Proven impact metrics in **production systems**
-
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.demolab.com/api?username=hesbonangwenyi606&show_icons=true&theme=radical&count_private=true" height="170" />
-  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=hesbonangwenyi606&layout=compact&theme=radical" height="170" />
-</p>
-### 🔥 Contribution Streak
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hesbonangwenyi606&theme=dark)
 
 
 
