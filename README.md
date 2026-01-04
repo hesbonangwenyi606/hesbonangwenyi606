@@ -132,9 +132,8 @@ Node.js • Docker • MongoDB
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&show_icons=true&theme=dark&count_private=true&v=1)
 
-### 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hesbonangwenyi606&layout=compact&theme=dark&v=1)
-
+## 🧠 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hesbonangwenyi606&layout=compact&theme=dark&langs_count=8&hide_border=true)
 ---
 
 ## 🟩 Contribution Activity Graph
