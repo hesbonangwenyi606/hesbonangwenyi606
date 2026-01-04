@@ -129,11 +129,6 @@ Node.js • Docker • MongoDB
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hesbonangwenyi606&theme=dark)
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&show_icons=true&theme=dark&count_private=true)
-
-## 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hesbonangwenyi606&layout=compact&theme=dark)
 
 
 ## 🟩 Contribution Activity Graph
@@ -148,11 +143,6 @@ Node.js • Docker • MongoDB
 
 ## 💬 Developer Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 👀 Profile Views
-![Profile Views](https://visitcount.itsvg.in/api?id=hesbonangwenyi606&icon=0&color=0)
 
 ---
 
