@@ -8,7 +8,8 @@
 I’m Hesbon Angwenyi, a Full-Stack|DevOps Engineer passionate about building **scalable,** **high-performance applications** and **automating cloud infrastructure.**
 I design and deliver **efficient,** **maintainable,** and **production-ready systems** using modern technologies and DevOps practices.
 
-**What sets me apart:** a focus on measurable impact, end-to-end engineering expertise, and automation of deployment pipelines for seamless delivery.
+**What sets me apart:** 
+I focus on measurable impact, end-to-end engineering expertise, and automation of deployment pipelines for seamless delivery.
 
 ## Connect With Me
 - **LinkedIn:** [Hesbon Angwenyi](https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/)  
