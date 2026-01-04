@@ -129,13 +129,12 @@ Node.js • Docker • MongoDB
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hesbonangwenyi606&theme=dark)
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&show_icons=true&theme=dark&count_private=true&cache_seconds=86400)
-
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&show_icons=true&theme=dark&count_private=true)
 
 ## 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hesbonangwenyi606&layout=compact&theme=dark&cache_seconds=86400)
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hesbonangwenyi606&layout=compact&theme=dark)
+
 
 ## 🟩 Contribution Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hesbonangwenyi606&theme=github-compact)
