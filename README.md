@@ -113,11 +113,13 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hesbonangwenyi606&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hesbonangwenyi606&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hesbonangwenyi606&theme=github_dark)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hesbonangwenyi606&theme=github_dark)
 
 
 ## 🟩 Contribution Activity Graph
