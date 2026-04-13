@@ -128,15 +128,15 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/Finlanza-Kenya">
-        <img src="https://github.com/Finlanza-Kenya.png" width="80" height="80" alt="Finlanza Kenya" />
-        <br/><b>Finlanza Kenya</b>
+      <a href="https://github.com/machinitechnologies">
+        <img src="https://github.com/machinitechnologies.png" width="80" height="80" alt="Machini Technologies" />
+        <br/><b>Machini Technologies</b>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/italanta">
-        <img src="https://github.com/italanta.png" width="80" height="80" alt="Italanta" />
-        <br/><b>Italanta</b>
+      <a href="https://github.com/elewa-group">
+        <img src="https://github.com/elewa-group.png" width="80" height="80" alt="Elewa" />
+        <br/><b>Elewa</b>
       </a>
     </td>
     <td align="center">
@@ -146,9 +146,9 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/machinitechnologies">
-        <img src="https://github.com/machinitechnologies.png" width="80" height="80" alt="Machini Technologies" />
-        <br/><b>Machini Technologies</b>
+      <a href="https://github.com/Finlanza-Kenya">
+        <img src="https://github.com/Finlanza-Kenya.png" width="80" height="80" alt="Finlanza Kenya" />
+        <br/><b>Finlanza Kenya</b>
       </a>
     </td>
   </tr>
