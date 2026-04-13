@@ -130,17 +130,6 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 </p>
 
 
-## 🐍 Snake eating my contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hesbonangwenyi606/hesbonangwenyi606/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hesbonangwenyi606/hesbonangwenyi606/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/hesbonangwenyi606/hesbonangwenyi606/output/github-snake.svg" />
-  </picture>
-</p>
-
----
 
 ## 🟩 Contribution Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hesbonangwenyi606&theme=github-compact)
