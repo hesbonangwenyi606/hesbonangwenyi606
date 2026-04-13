@@ -151,7 +151,6 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hesbonangwenyi606&theme=github_dark&utcOffset=3" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hesbonangwenyi606&theme=github_dark" alt="Repos Per Language" />
 </p>
 
 ### Random Dev Quote
