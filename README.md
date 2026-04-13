@@ -53,7 +53,7 @@ I am seeking **roles that maximize my impact**, including:
 ![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ---
 ### Tools & Others
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-00ADD8?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-00ADD8?style=for-the-badge&logo=scrumalliance&logoColor=white) ![Zoho Creator](https://img.shields.io/badge/Zoho%20Creator-E42527?style=for-the-badge&logo=zoho&logoColor=white) ![Zoho Books](https://img.shields.io/badge/Zoho%20Books-E42527?style=for-the-badge&logo=zoho&logoColor=white) ![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white)
 
 
 # Featured Projects
@@ -63,10 +63,10 @@ Automated CI/CD pipeline using Docker, Kubernetes, Terraform.
 **Impact:** Reduced deployment time by 75%, deployed 15+ services.  
 **Tech Stack:** Docker, Kubernetes, Terraform, AWS, CI/CD  
 **Screenshots:**  
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://i.pinimg.com/736x/77/94/9d/77949dc9e96c04011e92e3b4f3893dc4.jpg" style="width: 300px; height: auto;">
-<img src="https://i.pinimg.com/736x/e1/18/2e/e1182e10bdbeaaa642b50a5a1f5ce289.jpg" style="width: 300px; height: auto;">
-</div>
+<p>
+<img src="https://i.pinimg.com/736x/77/94/9d/77949dc9e96c04011e92e3b4f3893dc4.jpg" width="280" height="180" style="object-fit:cover;">
+<img src="https://i.pinimg.com/736x/e1/18/2e/e1182e10bdbeaaa642b50a5a1f5ce289.jpg" width="280" height="180" style="object-fit:cover;">
+</p>
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://deploy-cloud-tools.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hesbonangwenyi606/deploy-cloud-tools.git)
@@ -79,10 +79,10 @@ Automated customer queue ticket generation with real-time position tracking for 
 **Tech Stack:** React, TypeScript, Vite, Tailwind CSS
 
 **Screenshots:**  
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://i.pinimg.com/1200x/49/28/3d/49283dd9e7e5fd9aac1b41b65993f691.jpg" width="267" />
-  <img src="https://i.pinimg.com/1200x/b0/06/58/b006581c63305fdcb06b2925c2e2736c.jpg" width="200" />
-</div>
+<p>
+<img src="https://i.pinimg.com/1200x/49/28/3d/49283dd9e7e5fd9aac1b41b65993f691.jpg" width="280" height="180" style="object-fit:cover;">
+<img src="https://i.pinimg.com/1200x/b0/06/58/b006581c63305fdcb06b2925c2e2736c.jpg" width="280" height="180" style="object-fit:cover;">
+</p>
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://safaricom-queue-system-6awf.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hesbonangwenyi606/safaricom-queue-system)
@@ -94,10 +94,10 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 **Impact:** Improved API response time by 40%, auto-scalable services.  
 **Tech Stack:** Node.js, Docker, MongoDB  
 **Screenshots:**  
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://i.pinimg.com/736x/b5/b1/28/b5b1287d01e39e882bd54fa38f5e16c1.jpg" style="width: 190px; height: auto;">
-<img src="https://i.pinimg.com/736x/18/f2/6c/18f26c98e556c524dc6c335ff4f7a7eb.jpg" style="width:200px; height: auto;">
-</div>
+<p>
+<img src="https://i.pinimg.com/736x/b5/b1/28/b5b1287d01e39e882bd54fa38f5e16c1.jpg" width="280" height="180" style="object-fit:cover;">
+<img src="https://i.pinimg.com/736x/18/f2/6c/18f26c98e556c524dc6c335ff4f7a7eb.jpg" width="280" height="180" style="object-fit:cover;">
+</p>
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://scalable-docker-logging.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hesbonangwenyi606/scalable-docker-logging.git)
@@ -114,19 +114,13 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=hesbonangwenyi606&show_icons=true&theme=dark&count_private=true&include_all_commits=true&rank_icon=percentile" alt="GitHub Grade" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=hesbonangwenyi606&show_icons=true&theme=dark&count_private=true&include_all_commits=true&rank_icon=percentile" height="180" alt="GitHub Grade" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hesbonangwenyi606&theme=github_dark" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hesbonangwenyi606&theme=github_dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hesbonangwenyi606&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hesbonangwenyi606&theme=github_dark" alt="Profile Details" />
+  <img src="https://streak-stats.demolab.com/?user=hesbonangwenyi606&theme=dark&hide_border=false" height="180" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hesbonangwenyi606&theme=github_dark" height="180" alt="Profile Details" />
 </p>
 
 
