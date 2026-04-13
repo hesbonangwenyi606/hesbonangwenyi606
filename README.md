@@ -137,6 +137,12 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
     <br/>
     <b>Italanta</b>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rentmo">
+    <img src="https://github.com/rentmo.png" width="80" height="80" style="border-radius:50%;" alt="Rentmo" />
+    <br/>
+    <b>Rentmo</b>
+  </a>
 </p>
 
 
