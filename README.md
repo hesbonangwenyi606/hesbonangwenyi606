@@ -120,7 +120,6 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hesbonangwenyi606&theme=dark&hide_border=false" height="180" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hesbonangwenyi606&theme=github_dark" height="180" alt="Profile Details" />
 </p>
 
 ## 🏢 Organizations Worked
