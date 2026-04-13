@@ -134,8 +134,8 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/elewa-group">
-        <img src="https://github.com/elewa-group.png" width="80" height="80" alt="Elewa" />
+      <a href="https://github.com/elewa-company">
+        <img src="https://github.com/elewa-company.png" width="80" height="80" alt="Elewa" />
         <br/><b>Elewa</b>
       </a>
     </td>
