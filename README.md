@@ -125,25 +125,34 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 
 ## 🏢 Organizations
 
-<p align="center">
-  <a href="https://github.com/Finlanza-Kenya">
-    <img src="https://github.com/Finlanza-Kenya.png" width="80" height="80" style="border-radius:50%;" alt="Finlanza Kenya" />
-    <br/>
-    <b>Finlanza Kenya</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/italanta">
-    <img src="https://github.com/italanta.png" width="80" height="80" style="border-radius:50%;" alt="Italanta" />
-    <br/>
-    <b>Italanta</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/rentmo">
-    <img src="https://github.com/rentmo.png" width="80" height="80" style="border-radius:50%;" alt="Rentmo" />
-    <br/>
-    <b>Rentmo</b>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Finlanza-Kenya">
+        <img src="https://github.com/Finlanza-Kenya.png" width="80" height="80" alt="Finlanza Kenya" />
+        <br/><b>Finlanza Kenya</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/italanta">
+        <img src="https://github.com/italanta.png" width="80" height="80" alt="Italanta" />
+        <br/><b>Italanta</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rentmo">
+        <img src="https://github.com/rentmo.png" width="80" height="80" alt="Rentmo" />
+        <br/><b>Rentmo</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/machinitechnologies">
+        <img src="https://github.com/machinitechnologies.png" width="80" height="80" alt="Machini Technologies" />
+        <br/><b>Machini Technologies</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
