@@ -122,7 +122,7 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
   <img src="https://streak-stats.demolab.com/?user=hesbonangwenyi606&theme=dark&hide_border=false" height="180" alt="GitHub Streak" />
 </p>
 
-## 🏢 Organizations Worked
+## 🏢 Participated Organizations 
 
 <table align="center">
   <tr>
