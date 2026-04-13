@@ -114,7 +114,7 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=hesbonangwenyi606&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Grade" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=hesbonangwenyi606&show_icons=true&theme=dark" alt="GitHub Grade" />
 </p>
 
 <p align="center">
