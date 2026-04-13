@@ -123,31 +123,31 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hesbonangwenyi606&theme=github_dark" height="180" alt="Profile Details" />
 </p>
 
-## 🏢 Organizations
+## 🏢 Organizations Worked
 
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/machinitechnologies">
-        <img src="https://github.com/machinitechnologies.png" width="80" height="80" alt="Machini Technologies" />
+        <img src="https://github.com/machinitechnologies.png" width="120" alt="Machini Technologies" />
         <br/><b>Machini Technologies</b>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/elewa-company">
-        <img src="https://github.com/elewa-company.png" width="80" height="80" alt="Elewa" />
+      <a href="https://elewa.ke">
+        <img src="https://i0.wp.com/elewa.ke/wp-content/uploads/2025/05/elewa_logo_new_black.png?fit=300%2C138&ssl=1" width="120" alt="Elewa" />
         <br/><b>Elewa</b>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/rentmo">
-        <img src="https://github.com/rentmo.png" width="80" height="80" alt="Rentmo" />
+      <a href="https://www.rentmo.net">
+        <img src="https://images.squarespace-cdn.com/content/v1/689b7e407fb2764459706276/5b96ac02-4f13-4dbc-95c8-84d135a7159c/Logo.webp" width="120" alt="Rentmo" />
         <br/><b>Rentmo</b>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Finlanza-Kenya">
-        <img src="https://github.com/Finlanza-Kenya.png" width="80" height="80" alt="Finlanza Kenya" />
+      <a href="https://github.com/finlanzadevops">
+        <img src="https://github.com/finlanzadevops.png" width="120" alt="Finlanza Kenya" />
         <br/><b>Finlanza Kenya</b>
       </a>
     </td>
