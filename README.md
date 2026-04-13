@@ -123,6 +123,22 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hesbonangwenyi606&theme=github_dark" height="180" alt="Profile Details" />
 </p>
 
+## 🏢 Organizations
+
+<p align="center">
+  <a href="https://github.com/Finlanza-Kenya">
+    <img src="https://github.com/Finlanza-Kenya.png" width="80" height="80" style="border-radius:50%;" alt="Finlanza Kenya" />
+    <br/>
+    <b>Finlanza Kenya</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/italanta">
+    <img src="https://github.com/italanta.png" width="80" height="80" style="border-radius:50%;" alt="Italanta" />
+    <br/>
+    <b>Italanta</b>
+  </a>
+</p>
+
 
 
 ## 🟩 Contribution Activity Graph
