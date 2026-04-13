@@ -113,13 +113,21 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hesbonangwenyi606&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=hesbonangwenyi606&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Grade" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hesbonangwenyi606&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hesbonangwenyi606&theme=github_dark" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hesbonangwenyi606&theme=github_dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hesbonangwenyi606&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hesbonangwenyi606&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hesbonangwenyi606&theme=github_dark" alt="Profile Details" />
+</p>
 
 
 ## 🟩 Contribution Activity Graph
