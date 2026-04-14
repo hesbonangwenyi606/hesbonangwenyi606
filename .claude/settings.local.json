@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -v \"^$\")",
+      "Bash(xargs grep:*)",
+      "Bash(grep -v \"^ui$\")"
+    ]
+  }
+}
