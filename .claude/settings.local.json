@@ -4,6 +4,9 @@
       "Bash(grep -v \"^$\")",
       "Bash(xargs grep:*)",
       "Bash(grep -v \"^ui$\")"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\Admin\\clients\\my-portfolio"
     ]
   }
 }
