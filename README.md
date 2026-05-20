@@ -152,14 +152,7 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
     </td>
   </tr>
 </table>
-
-
-
-## 🟩 Contribution Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hesbonangwenyi606&theme=github-compact)
-
----
-
+----
 ## 🏆 GitHub Trophies
 
 <p align="center">
