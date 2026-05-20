@@ -152,7 +152,7 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
     </td>
   </tr>
 </table>
----
+
 ## Graph Commits
 
 <p align="center">
