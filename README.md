@@ -153,7 +153,7 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
   </tr>
 </table>
 ----
-## 🏆 GitHub Trophies
+## Graph Commits
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hesbonangwenyi606&theme=github_dark&utcOffset=3" width="600" alt="Productive Time" />
