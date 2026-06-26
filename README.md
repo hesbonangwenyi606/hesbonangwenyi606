@@ -37,8 +37,6 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 
 
 ## 🏆 Achievements & Metrics
-## 🏆 **Achievements & Metrics**
-
 * Developed and deployed **PayrollOS**, an end-to-end payroll solution integrated with **Zoho Creator, Zoho People, and Zoho Books**, streamlining payroll, HR, and finance operations.
 * Built **fintech solutions** by integrating **Money & Wallet APIs**, enabling secure digital wallet transactions, payment processing, fund transfers, and financial workflow automation.
 * Designed and implemented **enterprise business applications** that automated HR, payroll, CRM, finance, and approval workflows, significantly reducing manual processes.
