@@ -32,7 +32,6 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 **I'm particularly interested in roles where I can solve complex engineering problems, build scalable systems, automate business processes, and deliver technology solutions that create measurable business impact.**
 
 **Impact:** reducing deployment time, optimizing cloud infrastructure, and improving system reliability.
-
 **Work flexibility:** remote, hybrid, or onsite.  
 
 ## 🏆 **Achievements & Metrics**
