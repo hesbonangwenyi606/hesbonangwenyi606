@@ -26,6 +26,20 @@ I am seeking **roles that maximize my impact**, including:
 - **DevOps / Cloud Engineer** – CI/CD pipelines, cloud automation, Kubernetes, Terraform  
 - **Full-Stack Developer** – End-to-end system design, high-performance web apps  
 
+## **What I'm Looking For**
+
+I am seeking **software engineering opportunities that maximize my impact**, where I can design, build, and optimize scalable solutions while continuously expanding my technical expertise. My areas of interest include:
+
+* **Backend Engineer** – Building secure APIs, microservices, distributed systems, and high-performance backend services.
+* **Full-Stack Developer** – Developing modern, scalable web applications from frontend to backend.
+* **DevOps / Cloud Engineer** – Designing CI/CD pipelines, automating infrastructure, containerizing applications with Docker and Kubernetes, managing Infrastructure as Code (Terraform), and working with AWS, Azure, or Google Cloud.
+* **Software Engineer** – Developing reliable, maintainable, and production-ready software using clean architecture and best engineering practices.
+* **Business Applications Developer** – Building enterprise solutions, workflow automation, and system integrations using Zoho Creator, Zoho People, Zoho Books, Deluge, and REST APIs.
+* **Integration Engineer** – Connecting business systems through APIs, automation, and data synchronization to streamline business operations.
+
+**I'm particularly interested in roles where I can solve complex engineering problems, build scalable systems, automate business processes, and contribute to products that create measurable business impact.**
+
+
 **Work flexibility:** remote, hybrid, or onsite.  
 
 **Impact:** reducing deployment time, optimizing cloud infrastructure, and improving system reliability.
