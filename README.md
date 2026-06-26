@@ -16,7 +16,7 @@ I focus on measurable impact, end-to-end engineering expertise, and automation o
 - **X / Twitter:** [@hesbonmanyi254](https://x.com/hesbonmanyi254)  
 - **Mastodon:** [@HesbonAngwenyi](https://mastodon.social/@HesbonAngwenyi)  
 - **Email:** [hesbonmanyinsa96@gmail.com](mailto:hesbonmanyinsa96@gmail)  
-- **WhatsApp:** [+254 743 573 380](https://wa.me/254722514540)  
+- **WhatsApp:** [+254 722 514 540](https://wa.me/254722514540)  
 
 
 ## What I’m Looking For
