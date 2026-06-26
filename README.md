@@ -11,7 +11,6 @@ I'm **Hesbon Angwenyi**, a **Business Applications Developer | Backend & Full-St
 I design and deliver **secure, efficient, maintainable, and production-ready solutions** across **payroll, fintech, garage management, HR, CRM, and finance**, helping organizations streamline operations and accelerate digital transformation.
 
 **What sets me apart:**
-
 I combine strong business analysis with technical expertise to transform complex requirements into scalable software solutions. From custom business applications and REST API integrations to fintech solutions powered by **Money & Wallet APIs**, I focus on delivering technology that creates measurable business value.
 
 ## Connect With Me
