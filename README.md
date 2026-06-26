@@ -17,9 +17,8 @@ I focus on measurable impact, end-to-end engineering expertise, and automation o
 - **Mastodon:** [@HesbonAngwenyi](https://mastodon.social/@HesbonAngwenyi)  
 - **Email:** [hesbonmanyinsa96@gmail.com](mailto:hesbonmanyinsa96@gmail)  
 - **WhatsApp:** [+254 722 514 540](https://wa.me/254722514540)  
-
+---
 ## **What I'm Looking For**
-
 I am seeking **software engineering opportunities that maximize my impact**, where I can design, build, and optimize scalable solutions while continuously expanding my technical expertise. My areas of interest include:
 
 * **Business Applications Developer** – Building enterprise applications, workflow automation, and business process solutions using Zoho Creator, Zoho People, Zoho Books, Deluge, REST APIs, and third-party integrations.
@@ -33,7 +32,7 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 
 **Impact:** reducing deployment time, optimizing cloud infrastructure, and improving system reliability.
 **Work flexibility:** remote, hybrid, or onsite.  
-
+---
 ## 🏆 **Achievements & Metrics**
 * Developed and deployed **PayrollOS**, an end-to-end payroll solution integrated with **Zoho Creator, Zoho People, and Zoho Books**, streamlining payroll, HR, and finance operations.
 * Built a **Garage Management System** using **Zoho Creator**, automating vehicle service management, job cards, inventory tracking, invoicing, customer management, and workshop operations.
@@ -43,12 +42,11 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 * Improved application performance and maintainability through clean architecture, reusable components, optimized database design, and workflow automation.
 * Delivered custom software solutions across **fintech, payroll, garage management, HR, and business operations**, helping organizations digitize processes and improve operational efficiency.
 * Collaborated with cross-functional teams to translate business requirements into scalable, reliable, and production-ready software solutions.
-
+---
 ## 💻 Tech Stack
-
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
+---
 ### Backend
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=swagger&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ---
@@ -61,9 +59,8 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 ### Tools & Others
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-00ADD8?style=for-the-badge&logo=scrumalliance&logoColor=white) ![Zoho Creator](https://img.shields.io/badge/Zoho%20Creator-E42527?style=for-the-badge&logo=zoho&logoColor=white) ![Zoho Books](https://img.shields.io/badge/Zoho%20Books-E42527?style=for-the-badge&logo=zoho&logoColor=white) ![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white)
 
-
+---
 # Featured Projects
-
 ### **DevOps Automation Suite**
 Automated CI/CD pipeline using Docker, Kubernetes, Terraform.  
 **Impact:** Reduced deployment time by 75%, deployed 15+ services.  
@@ -109,13 +106,16 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hesbonangwenyi606/scalable-docker-logging.git)
 
 ---
-## Why Hire Me?
-- Deliver **scalable, high-performance solutions**  
-- End-to-end expertise: **Frontend, Backend, Cloud, DevOps**  
-- Optimize **CI/CD pipelines** for speed and reliability  
-- Flexible for **remote, hybrid, or onsite roles**  
-- Fast learner, collaborative, and result-oriented  
-- Proven impact metrics in **production systems**
+## **Why Hire Me?**
+* Build **custom business applications** that solve real operational challenges and improve efficiency.
+* Strong expertise in **Zoho Creator, Deluge, REST APIs, and enterprise system integrations**.
+* Experienced in **backend development**, API design, workflow automation, and scalable business solutions.
+* Proven ability to develop solutions across **payroll, fintech, garage management, HR, CRM, and finance** domains.
+* Deliver clean, maintainable, and reliable software with a strong focus on performance and user experience.
+* Quick learner who adapts rapidly to new technologies and enjoys solving complex business and technical problems.
+* Effective collaborator with cross-functional teams, delivering high-quality solutions on time.
+* Flexible and open to **remote, hybrid, or onsite** opportunities.
+
 
 ## 📊 GitHub Stats
 
@@ -158,9 +158,8 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
     </td>
   </tr>
 </table>
-
+---
 ## Graph Commits
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hesbonangwenyi606&theme=github_dark&utcOffset=3" width="600" alt="Productive Time" />
 </p>
@@ -170,7 +169,7 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 
 
 [![](https://visitcount.itsvg.in/api?id=hesbonangwenyi606&icon=0&color=0)](https://visitcount.itsvg.in)
-
+---
 ## 💰 Support My Work
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hesbonmanyinsa96@gmail)
 [![M-Pesa](https://img.shields.io/badge/M--Pesa-00A650?style=for-the-badge&logo=mpesa&logoColor=white)](tel:+254743573380) 
