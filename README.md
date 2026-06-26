@@ -35,16 +35,15 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 
 **Impact:** reducing deployment time, optimizing cloud infrastructure, and improving system reliability.
 
-
-## 🏆 Achievements & Metrics
+## 🏆 **Achievements & Metrics**
 * Developed and deployed **PayrollOS**, an end-to-end payroll solution integrated with **Zoho Creator, Zoho People, and Zoho Books**, streamlining payroll, HR, and finance operations.
+* Built a **Garage Management System** using **Zoho Creator**, automating vehicle service management, job cards, inventory tracking, invoicing, customer management, and workshop operations.
 * Built **fintech solutions** by integrating **Money & Wallet APIs**, enabling secure digital wallet transactions, payment processing, fund transfers, and financial workflow automation.
-* Designed and implemented **enterprise business applications** that automated HR, payroll, CRM, finance, and approval workflows, significantly reducing manual processes.
+* Designed and implemented **enterprise business applications** that automated HR, payroll, CRM, finance, inventory, and approval workflows, significantly reducing manual processes.
 * Developed scalable **REST API integrations** connecting Zoho applications, **Money & Wallet APIs**, and third-party platforms for seamless data synchronization.
 * Improved application performance and maintainability through clean architecture, reusable components, optimized database design, and workflow automation.
-* Delivered custom software solutions across **fintech, HR, payroll, and business operations**, helping organizations digitize processes and improve operational efficiency.
+* Delivered custom software solutions across **fintech, payroll, garage management, HR, and business operations**, helping organizations digitize processes and improve operational efficiency.
 * Collaborated with cross-functional teams to translate business requirements into scalable, reliable, and production-ready software solutions.
-
 
 ## 💻 Tech Stack
 
