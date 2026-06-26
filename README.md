@@ -37,10 +37,15 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 
 
 ## 🏆 Achievements & Metrics
-- Deployed **microservices** in **multi-region Kubernetes clusters**  
-- Reduced deployment time by **75%** with automated CI/CD pipelines  
-- Built cloud infrastructure with **auto-scaling, disaster recovery, and cost optimization**, reducing operational costs by **30%**  
-- Contributed to multiple **open-source projects**, enhancing coding standards and DevOps workflows  
+## 🏆 **Achievements & Metrics**
+
+* Developed and deployed **PayrollOS**, an end-to-end payroll solution integrated with **Zoho Creator, Zoho People, and Zoho Books**, streamlining payroll, HR, and finance operations.
+* Built **fintech solutions** by integrating **Money & Wallet APIs**, enabling secure digital wallet transactions, payment processing, fund transfers, and financial workflow automation.
+* Designed and implemented **enterprise business applications** that automated HR, payroll, CRM, finance, and approval workflows, significantly reducing manual processes.
+* Developed scalable **REST API integrations** connecting Zoho applications, **Money & Wallet APIs**, and third-party platforms for seamless data synchronization.
+* Improved application performance and maintainability through clean architecture, reusable components, optimized database design, and workflow automation.
+* Delivered custom software solutions across **fintech, HR, payroll, and business operations**, helping organizations digitize processes and improve operational efficiency.
+* Collaborated with cross-functional teams to translate business requirements into scalable, reliable, and production-ready software solutions.
 
 
 ## 💻 Tech Stack
