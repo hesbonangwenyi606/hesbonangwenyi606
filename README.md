@@ -31,9 +31,9 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 
 **I'm particularly interested in roles where I can solve complex engineering problems, build scalable systems, automate business processes, and deliver technology solutions that create measurable business impact.**
 
-**Work flexibility:** remote, hybrid, or onsite.  
-
 **Impact:** reducing deployment time, optimizing cloud infrastructure, and improving system reliability.
+
+**Work flexibility:** remote, hybrid, or onsite.  
 
 ## 🏆 **Achievements & Metrics**
 * Developed and deployed **PayrollOS**, an end-to-end payroll solution integrated with **Zoho Creator, Zoho People, and Zoho Books**, streamlining payroll, HR, and finance operations.
