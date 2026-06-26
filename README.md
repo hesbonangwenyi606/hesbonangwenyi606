@@ -4,12 +4,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;Backend+%7C+Cloud+%7C+CI%2FCD;Python+%7C+Javascript+%7C+TypeScript;I+Deliver+Scalable+Solutions)](https://git.io/typing-svg)
 
 
-## About Me
-I’m Hesbon Angwenyi, a Full-Stack|DevOps Engineer passionate about building **scalable,** **high-performance applications** and **automating cloud infrastructure.**
-I design and deliver **efficient,** **maintainable,** and **production-ready systems** using modern technologies and DevOps practices.
+## **About Me**
 
-**What sets me apart:** 
-I focus on measurable impact, end-to-end engineering expertise, and automation of deployment pipelines for seamless delivery.
+I'm **Hesbon Angwenyi**, a **Business Applications Developer | Backend & Full-Stack Engineer** passionate about building scalable software that solves real business challenges. I specialize in developing enterprise applications, backend services, API integrations, and workflow automation using modern technologies and the Zoho ecosystem.
+
+I design and deliver **secure, efficient, maintainable, and production-ready solutions** across **payroll, fintech, garage management, HR, CRM, and finance**, helping organizations streamline operations and accelerate digital transformation.
+
+**What sets me apart:**
+
+I combine strong business analysis with technical expertise to transform complex requirements into scalable software solutions. From custom business applications and REST API integrations to fintech solutions powered by **Money & Wallet APIs**, I focus on delivering technology that creates measurable business value.
 
 ## Connect With Me
 - **LinkedIn:** [Hesbon Angwenyi](https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/)  
