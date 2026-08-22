@@ -2,12 +2,12 @@
 
 ![Welcome To My GitHub Profile](https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=wave&fontFamily=Georgia)
 
-<!-- ⌨️ Animated Typing Roles - Roman Style -->  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Zoho+Developer;System+Engineer+Specialist;Full+Stack+Developer;DevOps+Engineer;Backend+%7C+Cloud+%7C+CI%2FCD;Python+%7C+Javascript+%7C+TypeScript;I+Deliver+Scalable+Solutions)](https://git.io/typing-svg)
+<!-- ⌨️ Animated Typing Roles - Roman Style -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Zoho+Developer;System+Engineer+Specialist;Full+Stack+Developer;DevOps+Engineer;Backend+%7C+Cloud+%7C+CI%2FCD;Python+%7C+Javascript+%7C+TypeScript;I+Deliver+Scalable+Solutions)](https://git.io/typing-svg)
 
 </div>
 
-## **About Me**
+![About Me](https://capsule-render.vercel.app/api?type=rect&height=60&text=About%20Me&fontSize=28&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 I'm **Hesbon Angwenyi**, a **Business Applications Developer | Backend & Full-Stack Engineer** passionate about building scalable software that solves real business challenges. I specialize in developing enterprise applications, backend services, API integrations, and workflow automation using modern technologies and the Zoho ecosystem.
 
@@ -16,16 +16,18 @@ I design and deliver **secure, efficient, maintainable, and production-ready sol
 **What sets me apart:**
 I combine strong business analysis with technical expertise to transform complex requirements into scalable software solutions. From custom business applications and REST API integrations to fintech solutions powered by **Money & Wallet APIs**, I focus on delivering technology that creates measurable business value.
 
-## **Connect With Me**
-- **WhatsApp:** [+254 722 514 540](https://wa.me/254722514540)  
-- **LinkedIn:** [Hesbon Angwenyi](https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/)  
-- **X / Twitter:** [@hesbonmanyi254](https://x.com/hesbonmanyi254)  
-- **Mastodon:** [@HesbonAngwenyi](https://mastodon.social/@HesbonAngwenyi)  
-- **Email:** [hesbonmanyinsa96@gmail.com](mailto:hesbonmanyinsa96@gmail) 
+![Connect With Me](https://capsule-render.vercel.app/api?type=rect&height=60&text=Connect%20With%20Me&fontSize=28&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
+
+- **WhatsApp:** [+254 722 514 540](https://wa.me/254722514540)
+- **LinkedIn:** [Hesbon Angwenyi](https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/)
+- **X / Twitter:** [@hesbonmanyi254](https://x.com/hesbonmanyi254)
+- **Mastodon:** [@HesbonAngwenyi](https://mastodon.social/@HesbonAngwenyi)
+- **Email:** [hesbonmanyinsa96@gmail.com](mailto:hesbonmanyinsa96@gmail)
 
 ---
 
-## **What I'm Looking For**
+![What I'm Looking For](https://capsule-render.vercel.app/api?type=rect&height=60&text=What%20I%27m%20Looking%20For&fontSize=28&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
+
 I am seeking **software engineering opportunities that maximize my impact**, where I can design, build, and optimize scalable solutions while continuously expanding my technical expertise. My areas of interest include:
 
 * **Business Applications Developer** – Building enterprise applications, workflow automation, and business process solutions using Zoho Creator, Zoho People, Zoho Books, Deluge, REST APIs, and third-party integrations.
@@ -35,12 +37,13 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 * **Software Engineer** – Developing reliable, maintainable, and production-ready software using clean architecture and best engineering practices.
 * **Integration Engineer** – Connecting business systems through APIs, automation, and data synchronization to streamline business operations.
 
-**Impact:** reducing deployment time, optimizing cloud infrastructure, and improving system reliability.  
+**Impact:** reducing deployment time, optimizing cloud infrastructure, and improving system reliability.
 **Work flexibility:** remote, hybrid, or onsite.
 
 ---
 
-## 🏆 **Achievements & Metrics**
+![Achievements & Metrics](https://capsule-render.vercel.app/api?type=rect&height=60&text=Achievements%20%26%20Metrics&fontSize=28&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
+
 * Developed and deployed **PayrollOS**, an end-to-end payroll solution integrated with **Zoho Creator, Zoho People, and Zoho Books**, streamlining payroll, HR, and finance operations.
 * Built a **Garage Management System** using **Zoho Creator**, automating vehicle service management, job cards, inventory tracking, invoicing, customer management, and workshop operations.
 * Built **fintech solutions** by integrating **Money & Wallet APIs**, enabling secure digital wallet transactions, payment processing, fund transfers, and financial workflow automation.
@@ -52,7 +55,7 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 
 ---
 
-## 💻 Tech Stack
+![Tech Stack](https://capsule-render.vercel.app/api?type=rect&height=60&text=Tech%20Stack&fontSize=28&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -66,7 +69,7 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 ### **Tools & Others**
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Zoho Creator](https://img.shields.io/badge/Zoho%20Creator-E42527?style=for-the-badge&logo=zoho&logoColor=white) ![Zoho Books](https://img.shields.io/badge/Zoho%20Books-E42527?style=for-the-badge&logo=zoho&logoColor=white) ![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white)
 
-<h2>🏆 Featured Projects</h2>
+![Featured Projects](https://capsule-render.vercel.app/api?type=rect&height=60&text=Featured%20Projects&fontSize=28&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 <h3>DevOps Automation Suite</h3>
 <p>Automated CI/CD pipeline using Docker, Kubernetes, Terraform.<br>
@@ -109,9 +112,9 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 </p>
 
 <hr>
----
 
-## **Why Hire Me?**
+![Why Hire Me](https://capsule-render.vercel.app/api?type=rect&height=60&text=Why%20Hire%20Me%3F&fontSize=28&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
+
 * Build **custom business applications** that solve real operational challenges and improve efficiency.
 * Strong expertise in **Zoho Creator, Deluge, REST APIs**, and enterprise system integrations.
 * Experienced in **backend development**, API design, workflow automation, and scalable business solutions.
@@ -123,7 +126,7 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 
 ---
 
-## 📊 **GitHub Activity & Stats**
+![GitHub Activity & Stats](https://capsule-render.vercel.app/api?type=rect&height=60&text=GitHub%20Activity%20%26%20Stats&fontSize=28&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 <div align="center">
 
@@ -142,7 +145,7 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 
 ---
 
-## 🏢 **Participated Organizations**
+![Participated Organizations](https://capsule-render.vercel.app/api?type=rect&height=60&text=Participated%20Organizations&fontSize=28&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 <table align="center">
   <tr>
@@ -192,7 +195,8 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 
 <br/>
 
-## 💰 **Support My Work**
+![Support My Work](https://capsule-render.vercel.app/api?type=rect&height=60&text=Support%20My%20Work&fontSize=28&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
+
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hesbonmanyinsa96@gmail) [![M-Pesa](https://img.shields.io/badge/M--Pesa-00A650?style=for-the-badge&logo=mpesa&logoColor=white)](tel:+254743573380)
 
 [![](https://visitcount.itsvg.in/api?id=hesbonangwenyi606&icon=0&color=0)](https://visitcount.itsvg.in)
