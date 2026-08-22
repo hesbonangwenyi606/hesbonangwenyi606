@@ -66,46 +66,49 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 ### **Tools & Others**
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Zoho Creator](https://img.shields.io/badge/Zoho%20Creator-E42527?style=for-the-badge&logo=zoho&logoColor=white) ![Zoho Books](https://img.shields.io/badge/Zoho%20Books-E42527?style=for-the-badge&logo=zoho&logoColor=white) ![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white)
 
----
+<h2>🏆 Featured Projects</h2>
 
-## 🏆 **Featured Projects**
-
-### **DevOps Automation Suite**
-Automated CI/CD pipeline using Docker, Kubernetes, Terraform.  
-**Impact:** Reduced deployment time by 75%, deployed 15+ services.  
+<h3>DevOps Automation Suite</h3>
+<p>Automated CI/CD pipeline using Docker, Kubernetes, Terraform.<br>
+<strong>Impact:</strong> Reduced deployment time by 75%, deployed 15+ services.</p>
 <p>
 <img src="https://i.pinimg.com/736x/77/94/9d/77949dc9e96c04011e92e3b4f3893dc4.jpg" width="280" height="180" style="object-fit:cover;">
 <img src="https://i.pinimg.com/736x/e1/18/2e/e1182e10bdbeaaa642b50a5a1f5ce289.jpg" width="280" height="180" style="object-fit:cover;">
 </p>
+<p>
+<a href="https://deploy-cloud-tools.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://github.com/hesbonangwenyi606/deploy-cloud-tools.git"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://deploy-cloud-tools.vercel.app/) [![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hesbonangwenyi606/deploy-cloud-tools.git)
+<hr>
 
----
-
-### **Safaricom Queue Management System**
-Web-Based Queue Application for real-time tracking.  
-**Impact:** Improved flow visibility and reduced wait-time confusion.  
+<h3>Safaricom Queue Management System</h3>
+<p>Web-Based Queue Application for real-time tracking.<br>
+<strong>Impact:</strong> Improved flow visibility and reduced wait-time confusion.</p>
 <p>
 <img src="https://i.pinimg.com/1200x/49/28/3d/49283dd9e7e5fd9aac1b41b65993f691.jpg" width="280" height="180" style="object-fit:cover;">
 <img src="https://i.pinimg.com/1200x/b0/06/58/b006581c63305fdcb06b2925c2e2736c.jpg" width="280" height="180" style="object-fit:cover;">
 </p>
+<p>
+<a href="https://safaricom-queue-system-6awf.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://github.com/hesbonangwenyi606/safaricom-queue-system"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://safaricom-queue-system-6awf.vercel.app/) [![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hesbonangwenyi606/safaricom-queue-system)
+<hr>
 
----
-
-### **Microservices Architecture**
-Scalable microservices with API Gateway, service discovery, and distributed logging.  
-**Impact:** Improved API response time by 40%, auto-scalable services.  
+<h3>Microservices Architecture</h3>
+<p>Scalable microservices with API Gateway, service discovery, and distributed logging.<br>
+<strong>Impact:</strong> Improved API response time by 40%, auto-scalable services.</p>
 <p>
 <img src="https://i.pinimg.com/736x/b5/b1/28/b5b1287d01e39e882bd54fa38f5e16c1.jpg" width="280" height="180" style="object-fit:cover;">
 <img src="https://i.pinimg.com/736x/18/f2/6c/18f26c98e556c524dc6c335ff4f7a7eb.jpg" width="280" height="180" style="object-fit:cover;">
 </p>
+<p>
+<a href="https://scalable-docker-logging.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://github.com/hesbonangwenyi606/scalable-docker-logging.git"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://scalable-docker-logging.vercel.app/) [![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hesbonangwenyi606/scalable-docker-logging.git)
-
----
-
+<hr>
 ## **Why Hire Me?**
 * Build **custom business applications** that solve real operational challenges and improve efficiency.
 * Strong expertise in **Zoho Creator, Deluge, REST APIs**, and enterprise system integrations.
