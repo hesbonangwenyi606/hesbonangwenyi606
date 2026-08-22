@@ -1,6 +1,6 @@
 ![Welcome To My GitHub Profile](https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=wave&fontFamily=Georgia)
 
-<!-- ⌨️ Animated Typing Roles - Updated to Lora (Serif) -->  
+<!-- ⌨️ Animated Typing Roles -->  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;Backend+%7C+Cloud+%7C+CI%2FCD;Python+%7C+Javascript+%7C+TypeScript;I+Deliver+Scalable+Solutions)](https://git.io/typing-svg)
 
 
@@ -58,7 +58,7 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2671E5?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ---
 ### Databases
-![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ---
 ### Tools & Others
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-00ADD8?style=for-the-badge&logo=scrumalliance&logoColor=white) ![Zoho Creator](https://img.shields.io/badge/Zoho%20Creator-E42527?style=for-the-badge&logo=zoho&logoColor=white) ![Zoho Books](https://img.shields.io/badge/Zoho%20Books-E42527?style=for-the-badge&logo=zoho&logoColor=white) ![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white)
