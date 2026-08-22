@@ -8,71 +8,73 @@
 
 ![The One-Line Pitch](https://capsule-render.vercel.app/api?type=soft&height=70&text=The%20One-Line%20Pitch&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
-> **I build the systems that run a company's back office — payroll, CRM, finance, inventory — and I ship them fast, integrated, and production-ready.**
+> **I build the software that runs a company's back office — payroll, CRM, finance, inventory — and I build it fast, connected, and ready for real use.**
 
-I'm a **Business Applications Developer and Backend/Full-Stack Engineer** who turns messy real-world business processes into clean, scalable software. My edge isn't just writing code — it's translating what a finance manager, an HR lead, or an operations team actually needs into a system that removes their manual work. I've done this end-to-end on the **Zoho ecosystem** (Creator, People, Books, CRM, Deluge) as well as modern **Node.js / React / TypeScript** stacks, with real fintech integrations (Money & Wallet APIs) and DevOps automation on top.
+I'm a **Business Applications Developer and Backend/Full-Stack Engineer**. In plain terms: I take a messy business problem and turn it into working software. Give me a payroll process that's stuck in spreadsheets, or a customer workflow that runs on WhatsApp and guesswork, and I'll turn it into a real system that just works.
 
-If you're hiring for a role where "understands the business AND can ship the code" matters, that's exactly the gap I fill.
+I do this mainly on **Zoho** (Creator, People, Books, CRM, Deluge), and also with modern web tools like **Node.js, React, and TypeScript**. I've also built real fintech features using Money and Wallet APIs, and set up DevOps pipelines that make shipping software faster and safer.
+
+If you need someone who can talk to your team, understand what they actually need, and then go build it — that's me.
 
 ![Open To](https://capsule-render.vercel.app/api?type=soft&height=70&text=Open%20to%3A%20Backend%20%7C%20Full-Stack%20%7C%20Business%20Apps%20%7C%20Integration%20Engineer&fontSize=17&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 ![Availability](https://capsule-render.vercel.app/api?type=soft&height=70&text=Remote-first%2C%20Worldwide%20%C2%B7%20Hybrid%2FOnsite%20in%20Nairobi%2C%20Kenya%20(GMT%2B3)&fontSize=17&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
-*Experienced working async with distributed, cross-time-zone teams.*
+*I've worked remotely with teams spread across different time zones before, so async work isn't new to me.*
 
 ---
 
 ![Proof of Impact](https://capsule-render.vercel.app/api?type=soft&height=70&text=Proof%20of%20Impact&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
-| What I Built | Business Outcome |
+| What I Built | What It Did For The Business |
 |---|---|
-| **PayrollOS** — end-to-end payroll engine on Zoho Creator, People & Books | Automated payroll, HR, and finance into one workflow — eliminated manual payroll reconciliation |
-| **Garage Management System** (Zoho Creator) | Automated job cards, inventory, invoicing & customer records for a full auto-workshop operation |
-| **Biometric Attendance System** (Zoho Creator, 5 construction sites) | Automated check-in/check-out tracking with real-time notifications to site managers |
-| **Fintech Wallet Integrations** (Money & Wallet APIs) | Enabled secure digital wallet transactions, payments, and fund transfers in production |
-| **DevOps Automation Suite** (Docker, Kubernetes, Terraform) | **75% reduction in deployment time**, 15+ services shipped through the pipeline |
-| **Microservices Architecture** (API Gateway, service discovery) | **40% faster API response times**, auto-scaling under load |
-| **Safaricom Queue Management System** | Real-time queue tracking, cut wait-time confusion for end users |
+| **PayrollOS** — full payroll system on Zoho Creator, People & Books | Took payroll, HR, and finance out of spreadsheets and put it all in one automated flow |
+| **Garage Management System** (Zoho Creator) | Automated job cards, inventory, invoicing, and customer records for a busy auto workshop |
+| **Biometric Attendance System** (Zoho Creator, 5 construction sites) | Staff clock in with biometrics — attendance is automatic, and site managers get instant alerts |
+| **Fintech Wallet Integrations** (Money & Wallet APIs) | Real digital wallets, real payments, real fund transfers, working in production |
+| **DevOps Automation Suite** (Docker, Kubernetes, Terraform) | **Cut deployment time by 75%**, and shipped 15+ services through one clean pipeline |
+| **Microservices Architecture** (API Gateway, service discovery) | **Made APIs 40% faster**, and let the system scale itself under load |
+| **Safaricom Queue Management System** | Real-time queue tracking so people stop wondering how long the wait actually is |
 
 ---
 
 ![What I'm Looking For](https://capsule-render.vercel.app/api?type=soft&height=70&text=What%20I%27m%20Looking%20For&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
-I'm looking for a role where I can own real business problems end-to-end, not just tickets. Strongest fit:
+I want a role where I actually own a problem, not just close tickets. That fits best with:
 
-* **Business Applications Developer** — Zoho Creator, Zoho People, Zoho Books, Deluge, REST APIs, third-party integrations
-* **Backend Engineer** — secure APIs, microservices, distributed systems, high-performance services
-* **Full-Stack Developer** — modern web apps, frontend to backend
-* **DevOps / Cloud Engineer** — CI/CD, Docker, Kubernetes, Terraform, AWS/Azure/GCP
-* **Integration Engineer** — connecting business systems via APIs and automated data sync
+* **Business Applications Developer** — Zoho Creator, Zoho People, Zoho Books, Deluge, REST APIs, and connecting third-party tools together
+* **Backend Engineer** — building secure APIs, microservices, and systems that hold up under real traffic
+* **Full-Stack Developer** — building the whole thing, frontend and backend
+* **DevOps / Cloud Engineer** — CI/CD pipelines, Docker, Kubernetes, Terraform, and cloud platforms like AWS, Azure, or GCP
+* **Integration Engineer** — making different business systems talk to each other automatically
 
 ---
 
 ![Achievements and Metrics](https://capsule-render.vercel.app/api?type=soft&height=70&text=Achievements%20and%20Metrics&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
-* Developed and deployed **PayrollOS**, an end-to-end payroll solution integrated with **Zoho Creator, Zoho People, and Zoho Books**, streamlining payroll, HR, and finance operations.
-* Built a **Garage Management System** using **Zoho Creator**, automating vehicle service management, job cards, inventory tracking, invoicing, customer management, and workshop operations.
-* Built a **biometric check-in/check-out system** in Zoho Creator for 5 construction sites, automating attendance tracking and giving site managers real-time notifications.
-* Built **fintech solutions** by integrating **Money & Wallet APIs**, enabling secure digital wallet transactions, payment processing, fund transfers, and financial workflow automation.
-* Designed and implemented **enterprise business applications** that automated HR, payroll, CRM, finance, inventory, and approval workflows, significantly reducing manual processes.
-* Developed scalable **REST API integrations** connecting Zoho applications, Money & Wallet APIs, and third-party platforms for seamless data synchronization.
-* Improved application performance and maintainability through clean architecture, reusable components, optimized database design, and workflow automation.
-* Delivered custom software solutions across **fintech, payroll, garage management, HR, and business operations**, helping organizations digitize processes and improve operational efficiency.
-* Collaborated with cross-functional teams to translate business requirements into scalable, reliable, and production-ready software solutions.
+* Built and launched **PayrollOS**, a complete payroll system connecting Zoho Creator, Zoho People, and Zoho Books — payroll, HR, and finance now run as one system instead of three.
+* Built a **Garage Management System** in Zoho Creator that handles job cards, inventory, invoicing, customer records, and day-to-day workshop operations.
+* Built a **biometric check-in/check-out system** in Zoho Creator for 5 construction sites — attendance tracks itself, and site managers get real-time alerts.
+* Built **fintech features** using Money and Wallet APIs — secure digital wallets, payments, and fund transfers that actually work in production.
+* Designed **full business systems** that automated HR, payroll, CRM, finance, inventory, and approvals — cutting out a huge amount of manual work.
+* Built **REST API integrations** connecting Zoho apps, Money and Wallet APIs, and outside platforms so data flows automatically between them.
+* Improved how systems perform and hold up over time, using clean code structure, reusable pieces, and smart database design.
+* Delivered real software across **fintech, payroll, garage management, HR, and general business operations** — helping companies drop the manual paperwork.
+* Worked closely with different teams to turn what they needed into software that was reliable and ready to use.
 
 ---
 
 ![Why Hire Me](https://capsule-render.vercel.app/api?type=soft&height=70&text=Why%20Hire%20Me%3F&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
-**1. I ship things that survive contact with real users.** Every project below is either live or was deployed into production use, not a tutorial clone.
+**1. What I build actually gets used.** Every project below is either live right now or was actually put to work — not a demo that never left my laptop.
 
-**2. I speak "business" and "code" fluently.** I can sit in a requirements meeting with a finance or ops lead and come out the other side with a working data model — that's the hard part most engineers skip.
+**2. I understand the business side, not just the code.** I can sit with a finance manager or an operations lead, listen to what they need, and turn it into a real data model. That step is where most projects go wrong — I don't skip it.
 
-**3. I've already solved the boring-but-critical stuff.** Payroll compliance logic, invoicing edge cases, approval workflows, fintech wallet flows — the parts that break in production if you get them wrong.
+**3. I've already dealt with the hard parts.** Payroll rules, invoicing edge cases, approval chains, wallet transactions — the stuff that quietly breaks in production if you get it wrong. I've been there.
 
-**4. I'm fast because I don't over-engineer.** Clean architecture, reusable components, and workflow automation — built to be maintained by someone other than me.
+**4. I keep things simple.** Clean structure, reusable code, automated workflows — built so someone else can pick it up after me without a headache.
 
-**5. I adapt quickly.** Zoho ecosystem one day, Node/React/TypeScript stack the next, Docker/Kubernetes pipelines after that — same engineer, different tools.
+**5. I pick up new tools fast.** Zoho one day, Node/React/TypeScript the next, Docker and Kubernetes after that — same person, different toolbox.
 
 ---
 
@@ -94,9 +96,9 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 
 ![Featured Projects](https://capsule-render.vercel.app/api?type=soft&height=70&text=Featured%20Projects&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
-<h3> DevOps Automation Suite</h3>
-<p>Automated CI/CD pipeline built on Docker, Kubernetes, and Terraform — designed to take a service from commit to production with zero manual steps.<br>
-<strong>Impact:</strong> 75% reduction in deployment time · 15+ services deployed through the pipeline</p>
+<h3>🚀 DevOps Automation Suite</h3>
+<p>An automated CI/CD pipeline built with Docker, Kubernetes, and Terraform — takes code from commit to production without anyone touching a manual step.<br>
+<strong>Result:</strong> Deployment time down 75% · 15+ services shipped through it</p>
 <p>
 <img src="https://i.pinimg.com/736x/77/94/9d/77949dc9e96c04011e92e3b4f3893dc4.jpg" width="280" height="180" style="object-fit:cover;">
 <img src="https://i.pinimg.com/736x/e1/18/2e/e1182e10bdbeaaa642b50a5a1f5ce289.jpg" width="280" height="180" style="object-fit:cover;">
@@ -109,8 +111,8 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 <hr>
 
 <h3>📶 Safaricom Queue Management System</h3>
-<p>Web-based queue application giving customers and staff real-time visibility into line status.<br>
-<strong>Impact:</strong> Improved flow visibility and materially reduced wait-time confusion for end users</p>
+<p>A web app that lets customers and staff see exactly where a queue stands, in real time.<br>
+<strong>Result:</strong> Less confusion, shorter-feeling waits, better flow overall</p>
 <p>
 <img src="https://i.pinimg.com/1200x/49/28/3d/49283dd9e7e5fd9aac1b41b65993f691.jpg" width="280" height="180" style="object-fit:cover;">
 <img src="https://i.pinimg.com/1200x/b0/06/58/b006581c63305fdcb06b2925c2e2736c.jpg" width="280" height="180" style="object-fit:cover;">
@@ -123,8 +125,8 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 <hr>
 
 <h3>🧩 Microservices Architecture</h3>
-<p>Scalable microservices system with API Gateway, service discovery, and distributed logging.<br>
-<strong>Impact:</strong> 40% faster API response times · auto-scaling services under load</p>
+<p>A scalable microservices setup with an API Gateway, service discovery, and centralized logging.<br>
+<strong>Result:</strong> APIs respond 40% faster, and services scale themselves as load changes</p>
 <p>
 <img src="https://i.pinimg.com/736x/b5/b1/28/b5b1287d01e39e882bd54fa38f5e16c1.jpg" width="280" height="180" style="object-fit:cover;">
 <img src="https://i.pinimg.com/736x/18/f2/6c/18f26c98e556c524dc6c335ff4f7a7eb.jpg" width="280" height="180" style="object-fit:cover;">
@@ -135,6 +137,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 </p>
 
 <hr>
+
 ---
 
 ![GitHub Activity and Stats](https://capsule-render.vercel.app/api?type=soft&height=70&text=GitHub%20Activity%20and%20Stats&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
@@ -200,7 +203,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
     <td width="33%" valign="top">
       <h3>About</h3>
       <p>
-      Hesbon Angwenyi is a Business Applications Developer and Backend/Full-Stack Engineer working with clients globally. He designs and ships production systems across payroll, fintech, CRM, and operations — combining the Zoho ecosystem with modern Node.js/React engineering.
+      Hesbon Angwenyi builds business software for a living — payroll systems, CRM tools, finance workflows, and everything in between. He works with clients around the world, mostly using Zoho, but also modern tools like Node.js and React when a project calls for it.
       </p>
     </td>
     <td width="33%" valign="top">
@@ -219,7 +222,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
       <p>
       🌍 Remote-first · Worldwide<br/>
       📍 Based in Nairobi, Kenya (GMT+3)<br/>
-      🕒 US / EU / APAC overlap friendly<br/><br/>
+      🕒 Comfortable overlapping with US / EU / APAC hours<br/><br/>
       ✉️ <a href="mailto:hesbonmanyinsa96@gmail.com">hesbonmanyinsa96@gmail.com</a><br/>
       💬 <a href="https://wa.me/254722514540">+254 722 514 540</a><br/>
       💼 <a href="https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/">LinkedIn</a>
@@ -232,7 +235,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Thanks%20for%20Visiting%20My%20GitHub%20Profile!&fontSize=22&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia&animation=twinkling)
 
-*Built with by Hesbon Angwenyi — Working Globally, Based in Nairobi, Kenya*
+*Built with care by Hesbon Angwenyi — working globally, based in Nairobi, Kenya.*
 [![](https://visitcount.itsvg.in/api?id=hesbonangwenyi606&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
