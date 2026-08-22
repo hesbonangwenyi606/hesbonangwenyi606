@@ -191,7 +191,6 @@ I want a role where I actually own a problem, not just close tickets. That fits 
 </table>
 
 ---
-
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
@@ -217,9 +216,9 @@ I want a role where I actually own a problem, not just close tickets. That fits 
       🌍 Remote-first · Worldwide<br/>
       📍 Based in Nairobi, Kenya (GMT+3)<br/>
       🕒 Comfortable overlapping with US / EU / APAC hours<br/><br/>
-      💼 <a href="https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/">LinkedIn</a>
+      💼 <a href="https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/">LinkedIn</a><br/>
       💬 <a href="https://wa.me/254722514540">+254 722 514 540</a><br/>
-      ✉️ <a href="mailto:hesbonmanyinsa96@gmail.com">hesbonmanyinsa96@gmail.com</a><br/>
+      ✉️ <a href="mailto:hesbonmanyinsa96@gmail.com">hesbonmanyinsa96@gmail.com</a>
       </p>
     </td>
   </tr>
@@ -228,7 +227,6 @@ I want a role where I actually own a problem, not just close tickets. That fits 
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Thanks%20for%20Visiting%20My%20GitHub%20Profile!&fontSize=22&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia&animation=twinkling)
-
 *Built with care by Hesbon Angwenyi — working globally, based in Nairobi, Kenya.*
 [![](https://visitcount.itsvg.in/api?id=hesbonangwenyi606&icon=0&color=0)](https://visitcount.itsvg.in)
 
