@@ -148,12 +148,6 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=hesbonangwenyi606&show_icons=true&theme=dark&count_private=true&include_all_commits=true&rank_icon=percentile" height="180" alt="GitHub Grade" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hesbonangwenyi606&theme=github_dark" height="180" alt="Top Languages" />
 
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hesbonangwenyi606&theme=github-dark-wide&bg_color=0D1117&hide_border=true)
-
-</div>
-
 ---
 
 ![Companies and Teams I've Worked With](https://capsule-render.vercel.app/api?type=soft&height=70&text=Companies%20and%20Teams%20I%27ve%20Worked%20With&fontSize=20&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
