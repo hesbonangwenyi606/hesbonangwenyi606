@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=26&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Business+Applications+%26+Backend+Engineer;Zoho+Creator+%7C+Deluge+%7C+REST+API+Integrations;Full-Stack%3A+Node.js+%7C+React+%7C+TypeScript;DevOps%3A+Docker+%7C+Kubernetes+%7C+CI%2FCD;I+Turn+Business+Requirements+Into+Production+Systems)](https://git.io/typing-svg)
 
-**Open to: Backend Engineer · Full-Stack Developer · Business Applications Developer · Integration Engineer**
-**Remote · Hybrid · Onsite — Nairobi, Kenya (GMT+3)**
-
 [![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hesbonmanyinsa96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254722514540)
@@ -21,6 +18,9 @@
 I'm a **Business Applications Developer and Backend/Full-Stack Engineer** who turns messy real-world business processes into clean, scalable software. My edge isn't just writing code — it's translating what a finance manager, an HR lead, or an operations team actually needs into a system that removes their manual work. I've done this end-to-end on the **Zoho ecosystem** (Creator, People, Books, CRM, Deluge) as well as modern **Node.js / React / TypeScript** stacks, with real fintech integrations (Money & Wallet APIs) and DevOps automation on top.
 
 If you're hiring for a role where "understands the business AND can ship the code" matters, that's exactly the gap I fill.
+
+**Open to:** Backend Engineer · Full-Stack Developer · Business Applications Developer · Integration Engineer
+**Availability:** Remote · Hybrid · Onsite — Nairobi, Kenya (GMT+3)
 
 ---
 
@@ -210,12 +210,15 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254722514540)
 
+</div>
+
 <br/>
 
-![Support My Work](https://capsule-render.vercel.app/api?type=soft&height=100&text=Support%20My%20Work&fontSize=28&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia&animation=twinkling)
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hesbonmanyinsa96@gmail) [![M-Pesa](https://img.shields.io/badge/M--Pesa-00A650?style=for-the-badge&logo=mpesa&logoColor=white)](tel:+254743573380)
+<div align="center">
 
+*Built with ❤️ by Hesbon Angwenyi — Nairobi, Kenya*
 [![](https://visitcount.itsvg.in/api?id=hesbonangwenyi606&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
