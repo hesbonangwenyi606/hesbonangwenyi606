@@ -1,7 +1,7 @@
-![Welcome To My GitHub Profile](https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=wave)
+![Welcome To My GitHub Profile](https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=wave&fontFamily=Georgia)
 
-<!-- ⌨️ Animated Typing Roles -->  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;Backend+%7C+Cloud+%7C+CI%2FCD;Python+%7C+Javascript+%7C+TypeScript;I+Deliver+Scalable+Solutions)](https://git.io/typing-svg)
+<!-- ⌨️ Animated Typing Roles - Updated to Lora (Serif) -->  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;Backend+%7C+Cloud+%7C+CI%2FCD;Python+%7C+Javascript+%7C+TypeScript;I+Deliver+Scalable+Solutions)](https://git.io/typing-svg)
 
 
 ## **About Me**
@@ -176,4 +176,4 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 ---
 ## 💰 Support My Work
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hesbonmanyinsa96@gmail)
-[![M-Pesa](https://img.shields.io/badge/M--Pesa-00A650?style=for-the-badge&logo=mpesa&logoColor=white)](tel:+254743573380) 
+[![M-Pesa](https://img.shields.io/badge/M--Pesa-00A650?style=for-the-badge&logo=mpesa&logoColor=white)](tel:+254743573380)
