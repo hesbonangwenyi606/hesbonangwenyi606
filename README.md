@@ -15,11 +15,11 @@ I design and deliver **secure, efficient, maintainable, and production-ready sol
 I combine strong business analysis with technical expertise to transform complex requirements into scalable software solutions. From custom business applications and REST API integrations to fintech solutions powered by **Money & Wallet APIs**, I focus on delivering technology that creates measurable business value.
 
 ## Connect With Me
+- **WhatsApp:** [+254 722 514 540](https://wa.me/254722514540)  
 - **LinkedIn:** [Hesbon Angwenyi](https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/)  
 - **X / Twitter:** [@hesbonmanyi254](https://x.com/hesbonmanyi254)  
 - **Mastodon:** [@HesbonAngwenyi](https://mastodon.social/@HesbonAngwenyi)  
-- **Email:** [hesbonmanyinsa96@gmail.com](mailto:hesbonmanyinsa96@gmail)  
-- **WhatsApp:** [+254 722 514 540](https://wa.me/254722514540)  
+- **Email:** [hesbonmanyinsa96@gmail.com](mailto:hesbonmanyinsa96@gmail) 
 ---
 ## **What I'm Looking For**
 I am seeking **software engineering opportunities that maximize my impact**, where I can design, build, and optimize scalable solutions while continuously expanding my technical expertise. My areas of interest include:
