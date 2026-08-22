@@ -1,7 +1,7 @@
 ![Welcome To My GitHub Profile](https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=wave&fontFamily=Georgia)
 
-<!-- ⌨️ Animated Typing Roles -->  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;Backend+%7C+Cloud+%7C+CI%2FCD;Python+%7C+Javascript+%7C+TypeScript;I+Deliver+Scalable+Solutions)](https://git.io/typing-svg)
+<!-- ⌨️ Animated Typing Roles - Updated with Zoho and System Engineer roles in Roman style -->  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Zoho+Developer;System+Engineer+Specialist;Full+Stack+Developer;DevOps+Engineer;Backend+%7C+Cloud+%7C+CI%2FCD;Python+%7C+Javascript+%7C+TypeScript)](https://git.io/typing-svg)
 
 
 ## **About Me**
