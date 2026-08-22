@@ -2,7 +2,7 @@
 
 ![Welcome To My GitHub Profile](https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=wave&fontFamily=Georgia)
 
-<!-- ⌨️ Animated Typing Roles - Roman Style -->  
+<!-- ⌨️ Animated Typing Roles - Roman Style (Lora Font) -->  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Zoho+Developer;System+Engineer+Specialist;Full+Stack+Developer;DevOps+Engineer;Backend+%7C+Cloud+%7C+CI%2FCD;Python+%7C+Javascript+%7C+TypeScript)](https://git.io/typing-svg)
 
 </div>
@@ -10,8 +10,6 @@
 ## **About Me**
 
 I'm **Hesbon Angwenyi**, a **Business Applications Developer | Backend & Full-Stack Engineer** passionate about building scalable software that solves real business challenges. I specialize in developing enterprise applications, backend services, API integrations, and workflow automation using modern technologies and the Zoho ecosystem.
-
-I design and deliver **secure, efficient, maintainable, and production-ready solutions** across **payroll, fintech, garage management, HR, CRM, and finance**, helping organizations streamline operations and accelerate digital transformation.
 
 ---
 
@@ -48,8 +46,8 @@ I design and deliver **secure, efficient, maintainable, and production-ready sol
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/parliedigital">
-        <img src="https://github.com/parliedigital.png" width="100" alt="Parlie Digital" />
+      <a href="https://github.com/Parlie-Digital">
+        <img src="https://github.com/Parlie-Digital.png" width="100" alt="Parlie Digital" />
         <br/><b>Parlie Digital</b>
       </a>
     </td>
