@@ -98,7 +98,7 @@ I want a role where I actually own a problem, not just close tickets. That fits 
 
 ![Featured Projects](https://capsule-render.vercel.app/api?type=soft&height=70&text=Featured%20Projects&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
-<h3>🚀 DevOps Automation Suite</h3>
+<h3> DevOps Automation Suite</h3>
 <p>An automated CI/CD pipeline built with Docker, Kubernetes, and Terraform — takes code from commit to production without anyone touching a manual step.<br>
 <strong>Result:</strong> Deployment time down 75% · 15+ services shipped through it</p>
 <p>
@@ -140,8 +140,6 @@ I want a role where I actually own a problem, not just close tickets. That fits 
 
 <hr>
 
----
-
 ![GitHub Activity and Stats](https://capsule-render.vercel.app/api?type=soft&height=70&text=GitHub%20Activity%20and%20Stats&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 <div align="center">
@@ -173,7 +171,7 @@ I want a role where I actually own a problem, not just close tickets. That fits 
     </td>
     <td align="center">
       <a href="https://elewa.ke">
-        <img src="https://elewa.ke/wp-content/uploads/2025/05/elewa_logo_new_black.png" width="100" alt="Elewa" />
+        <img src="https://i0.wp.com/elewa.ke/wp-content/uploads/2025/05/elewa_logo_new_black.png?fit=300%2C138&ssl=1" width="100" alt="Elewa" />
         <br/><b>Elewa</b>
       </a>
     </td>
@@ -193,7 +191,6 @@ I want a role where I actually own a problem, not just close tickets. That fits 
 </table>
 
 ---
-
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
@@ -230,7 +227,6 @@ I want a role where I actually own a problem, not just close tickets. That fits 
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Thanks%20for%20Visiting%20My%20GitHub%20Profile!&fontSize=22&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia&animation=twinkling)
-
 *Built with care by Hesbon Angwenyi — working globally, based in Nairobi, Kenya.*
 [![](https://visitcount.itsvg.in/api?id=hesbonangwenyi606&icon=0&color=0)](https://visitcount.itsvg.in)
 
