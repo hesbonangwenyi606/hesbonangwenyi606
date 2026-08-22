@@ -63,12 +63,6 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 ### **DevOps**
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2671E5?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### **Tools & Others**
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-00ADD8?style=for-the-badge&logo=scrumalliance&logoColor=white) ![Zoho Creator](https://img.shields.io/badge/Zoho%20Creator-E42527?style=for-the-badge&logo=zoho&logoColor=white) ![Zoho Books](https://img.shields.io/badge/Zoho%20Books-E42527?style=for-the-badge&logo=zoho&logoColor=white) ![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white)
-
 ---
 
 ## 🏆 **Featured Projects**
@@ -80,24 +74,18 @@ Automated CI/CD pipeline using Docker, Kubernetes, Terraform.
 <img src="https://i.pinimg.com/736x/77/94/9d/77949dc9e96c04011e92e3b4f3893dc4.jpg" width="280" height="180" style="object-fit:cover;">
 <img src="https://i.pinimg.com/736x/e1/18/2e/e1182e10bdbeaaa642b50a5a1f5ce289.jpg" width="280" height="180" style="object-fit:cover;">
 </p>
-<div align="left">
-<a href="https://deploy-cloud-tools.vercel.app/">![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)</a> 
-<a href="https://github.com/hesbonangwenyi606/deploy-cloud-tools.git">![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)</a>
-</div>
+<a href="https://deploy-cloud-tools.vercel.app/">![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)</a> <a href="https://github.com/hesbonangwenyi606/deploy-cloud-tools.git">![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)</a>
 
 ---
 
 ### **Safaricom Queue Management System**
-Web-Based Queue Management Application for real-time tracking.  
+Web-Based Queue Application for real-time tracking.  
 **Impact:** Improved flow visibility and reduced wait-time confusion.  
 <p>
 <img src="https://i.pinimg.com/1200x/49/28/3d/49283dd9e7e5fd9aac1b41b65993f691.jpg" width="280" height="180" style="object-fit:cover;">
 <img src="https://i.pinimg.com/1200x/b0/06/58/b006581c63305fdcb06b2925c2e2736c.jpg" width="280" height="180" style="object-fit:cover;">
 </p>
-<div align="left">
-<a href="https://safaricom-queue-system-6awf.vercel.app/">![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)</a> 
-<a href="https://github.com/hesbonangwenyi606/safaricom-queue-system">![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)</a>
-</div>
+<a href="https://safaricom-queue-system-6awf.vercel.app/">![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)</a> <a href="https://github.com/hesbonangwenyi606/safaricom-queue-system">![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)</a>
 
 ---
 
@@ -108,20 +96,16 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 <img src="https://i.pinimg.com/736x/b5/b1/28/b5b1287d01e39e882bd54fa38f5e16c1.jpg" width="280" height="180" style="object-fit:cover;">
 <img src="https://i.pinimg.com/736x/18/f2/6c/18f26c98e556c524dc6c335ff4f7a7eb.jpg" width="280" height="180" style="object-fit:cover;">
 </p>
-<div align="left">
-<a href="https://scalable-docker-logging.vercel.app/">![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)</a> 
-<a href="https://github.com/hesbonangwenyi606/scalable-docker-logging.git">![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)</a>
-</div>
+<a href="https://scalable-docker-logging.vercel.app/">![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)</a> <a href="https://github.com/hesbonangwenyi606/scalable-docker-logging.git">![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)</a>
 
 ---
 
 ## **Why Hire Me?**
 * Build **custom business applications** that solve real operational challenges and improve efficiency.
 * Strong expertise in **Zoho Creator, Deluge, REST APIs**, and enterprise system integrations.
-* Experienced in **backend development**, API design, workflow automation, and scalable business solutions.
-* Proven ability to develop solutions across **payroll, fintech, garage management, HR, CRM, and finance** domains.
-* Deliver clean, maintainable, and reliable software with a strong focus on performance and user experience.
-* Quick learner who adapts rapidly to new technologies and enjoys solving complex business and technical problems.
+* Experienced in **backend development**, API design, and scalable business solutions.
+* Proven ability across **payroll, fintech, garage management, HR, CRM, and finance** domains.
+* Deliver clean, maintainable, and reliable software with a focus on performance.
 * Effective collaborator with cross-functional teams, delivering high-quality solutions on time.
 * Flexible and open to **remote, hybrid, or onsite** opportunities.
 
@@ -131,8 +115,7 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 
 <div align="center">
 
-<!-- Animated Contribution Snake -->
-![Snake Animation](https://github-readme-streak-stats.herokuapp.com/?user=hesbonangwenyi606&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hesbonangwenyi606&theme=dark)
 
 <br/>
 
@@ -141,7 +124,6 @@ Scalable microservices with API Gateway, service discovery, and distributed logg
 
 <br/>
 
-<!-- Modern Activity Graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hesbonangwenyi606&theme=github-dark-wide&bg_color=0D1117&hide_border=true)
 
 </div>
