@@ -10,13 +10,13 @@
 
 > **I build the software that runs a company's back office — payroll, CRM, finance, inventory — and I build it fast, connected, and ready for real use.**
 
-I'm a **Business Applications Developer and Backend/Full-Stack Engineer**. In plain terms: I take a messy business problem and turn it into working software.
+I'm a **Business Applications Developer and Backend/Full-Stack Engineer** — I turn messy business problems into working software.
 
-On the business side, that means things like: a payroll process stuck in spreadsheets, or a customer workflow running on WhatsApp and guesswork — I turn it into a real system that just works. I do this mainly on **Zoho** (Creator, People, Books, CRM, Deluge).
+On the business side, I fix things like payroll stuck in spreadsheets or workflows running on WhatsApp and guesswork, mainly using **Zoho** (Creator, People, Books, CRM, Deluge).
 
-On the engineering side, I build backend systems and full-stack apps from the ground up — REST APIs, databases, authentication, microservices, the works — using **Node.js, Express, NestJS, React, Next.js, and TypeScript**. I'm comfortable designing a database schema, building the API on top of it, and wiring up a frontend that actually talks to it properly. I've also built real fintech features using Money and Wallet APIs, containerized services with Docker and Kubernetes, and set up CI/CD pipelines that make shipping software faster and safer.
+On the engineering side, I build backend systems and full-stack apps from scratch — APIs, databases, authentication, microservices — using **Node.js, Express, NestJS, React, Next.js, and TypeScript**. I've also built fintech features with Money and Wallet APIs, and set up Docker/Kubernetes and CI/CD pipelines to ship it all safely.
 
-If you need someone who can sit with your team, understand what they actually need, and then go build the whole thing — backend, frontend, or both — that's me.
+If you need someone who can understand what your team needs and then go build it — backend, frontend, or both — that's me.
 
 ![Open To](https://capsule-render.vercel.app/api?type=soft&height=70&text=Open%20to%3A%20Backend%20%7C%20Full-Stack%20%7C%20Business%20Apps%20%7C%20Integration%20Engineer&fontSize=17&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
@@ -150,6 +150,13 @@ I want a role where I actually own a problem, not just close tickets. That fits 
 
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=hesbonangwenyi606&show_icons=true&theme=dark&count_private=true&include_all_commits=true&rank_icon=percentile" height="180" alt="GitHub Grade" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hesbonangwenyi606&theme=github_dark" height="180" alt="Top Languages" />
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hesbonangwenyi606&theme=github-dark-wide&bg_color=0D1117&hide_border=true)
+
+</div>
+
 ---
 
 ![Companies and Teams I've Worked With](https://capsule-render.vercel.app/api?type=soft&height=70&text=Companies%20and%20Teams%20I%27ve%20Worked%20With&fontSize=20&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
