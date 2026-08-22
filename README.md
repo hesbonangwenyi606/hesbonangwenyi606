@@ -217,9 +217,9 @@ I want a role where I actually own a problem, not just close tickets. That fits 
       🌍 Remote-first · Worldwide<br/>
       📍 Based in Nairobi, Kenya (GMT+3)<br/>
       🕒 Comfortable overlapping with US / EU / APAC hours<br/><br/>
-      ✉️ <a href="mailto:hesbonmanyinsa96@gmail.com">hesbonmanyinsa96@gmail.com</a><br/>
-      💬 <a href="https://wa.me/254722514540">+254 722 514 540</a><br/>
       💼 <a href="https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/">LinkedIn</a>
+      💬 <a href="https://wa.me/254722514540">+254 722 514 540</a><br/>
+      ✉️ <a href="mailto:hesbonmanyinsa96@gmail.com">hesbonmanyinsa96@gmail.com</a><br/>
       </p>
     </td>
   </tr>
