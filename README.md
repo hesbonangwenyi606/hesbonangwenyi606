@@ -6,7 +6,7 @@
 
 </div>
 
-![The One-Line Pitch](https://capsule-render.vercel.app/api?type=soft&height=100&text=The%20One-Line%20Pitch&fontSize=28&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
+![The One-Line Pitch](https://capsule-render.vercel.app/api?type=soft&height=70&text=The%20One-Line%20Pitch&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 > **I build the systems that run a company's back office — payroll, CRM, finance, inventory — and I ship them fast, integrated, and production-ready.**
 
@@ -21,7 +21,7 @@ If you're hiring for a role where "understands the business AND can ship the cod
 
 ---
 
-![Proof of Impact](https://capsule-render.vercel.app/api?type=soft&height=100&text=Proof%20of%20Impact&fontSize=28&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
+![Proof of Impact](https://capsule-render.vercel.app/api?type=soft&height=70&text=Proof%20of%20Impact&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 | What I Built | Business Outcome |
 |---|---|
@@ -35,7 +35,7 @@ If you're hiring for a role where "understands the business AND can ship the cod
 
 ---
 
-![What I'm Looking For](https://capsule-render.vercel.app/api?type=soft&height=100&text=What%20I%27m%20Looking%20For&fontSize=28&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
+![What I'm Looking For](https://capsule-render.vercel.app/api?type=soft&height=70&text=What%20I%27m%20Looking%20For&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 I'm looking for a role where I can own real business problems end-to-end, not just tickets. Strongest fit:
 
@@ -47,7 +47,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 
 ---
 
-![Achievements and Metrics](https://capsule-render.vercel.app/api?type=soft&height=100&text=Achievements%20and%20Metrics&fontSize=28&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
+![Achievements and Metrics](https://capsule-render.vercel.app/api?type=soft&height=70&text=Achievements%20and%20Metrics&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 * Developed and deployed **PayrollOS**, an end-to-end payroll solution integrated with **Zoho Creator, Zoho People, and Zoho Books**, streamlining payroll, HR, and finance operations.
 * Built a **Garage Management System** using **Zoho Creator**, automating vehicle service management, job cards, inventory tracking, invoicing, customer management, and workshop operations.
@@ -61,7 +61,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 
 ---
 
-![Why Hire Me](https://capsule-render.vercel.app/api?type=soft&height=100&text=Why%20Hire%20Me%3F&fontSize=28&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
+![Why Hire Me](https://capsule-render.vercel.app/api?type=soft&height=70&text=Why%20Hire%20Me%3F&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 **1. I ship things that survive contact with real users.** Every project below is either live or was deployed into production use, not a tutorial clone.
 
@@ -75,7 +75,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 
 ---
 
-![Tech Stack](https://capsule-render.vercel.app/api?type=soft&height=100&text=Tech%20Stack&fontSize=28&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
+![Tech Stack](https://capsule-render.vercel.app/api?type=soft&height=70&text=Tech%20Stack&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -91,7 +91,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 
 ---
 
-![Featured Projects](https://capsule-render.vercel.app/api?type=soft&height=100&text=Featured%20Projects&fontSize=28&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
+![Featured Projects](https://capsule-render.vercel.app/api?type=soft&height=70&text=Featured%20Projects&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 <h3>🚀 DevOps Automation Suite</h3>
 <p>Automated CI/CD pipeline built on Docker, Kubernetes, and Terraform — designed to take a service from commit to production with zero manual steps.<br>
@@ -137,7 +137,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 
 ---
 
-![GitHub Activity and Stats](https://capsule-render.vercel.app/api?type=soft&height=100&text=GitHub%20Activity%20and%20Stats&fontSize=28&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
+![GitHub Activity and Stats](https://capsule-render.vercel.app/api?type=soft&height=70&text=GitHub%20Activity%20and%20Stats&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 <div align="center">
 
@@ -156,7 +156,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 
 ---
 
-![Companies and Teams I've Worked With](https://capsule-render.vercel.app/api?type=soft&height=100&text=Companies%20and%20Teams%20I%27ve%20Worked%20With&fontSize=26&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
+![Companies and Teams I've Worked With](https://capsule-render.vercel.app/api?type=soft&height=70&text=Companies%20and%20Teams%20I%27ve%20Worked%20With&fontSize=20&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 <table align="center">
   <tr>
@@ -230,7 +230,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Thanks%20for%20Visiting%20My%20GitHub%20Profile!&fontSize=22&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia&animation=twinkling)
 
 *Built with by Hesbon Angwenyi — Working Globally, Based in Nairobi, Kenya*
 [![](https://visitcount.itsvg.in/api?id=hesbonangwenyi606&icon=0&color=0)](https://visitcount.itsvg.in)
