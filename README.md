@@ -109,6 +109,8 @@ I am seeking **software engineering opportunities that maximize my impact**, whe
 </p>
 
 <hr>
+---
+
 ## **Why Hire Me?**
 * Build **custom business applications** that solve real operational challenges and improve efficiency.
 * Strong expertise in **Zoho Creator, Deluge, REST APIs**, and enterprise system integrations.
