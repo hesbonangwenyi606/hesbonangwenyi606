@@ -26,60 +26,95 @@ I combine strong business analysis with technical expertise to transform complex
 ---
 
 ## **What I'm Looking For**
-I am seeking **software engineering opportunities that maximize my impact**, where I can design, build, and optimize scalable solutions. My areas of interest include:
+I am seeking **software engineering opportunities that maximize my impact**, where I can design, build, and optimize scalable solutions while continuously expanding my technical expertise. My areas of interest include:
 
-* **Business Applications Developer** – Building enterprise applications and automation using Zoho Creator, Zoho People, Zoho Books, Deluge, and REST APIs.
-* **Backend Engineer** – Building secure APIs, microservices, and high-performance backend services.
+* **Business Applications Developer** – Building enterprise applications and automation using Zoho Creator, Zoho People, Zoho Books, Deluge, REST APIs, and third-party integrations.
+* **Backend Engineer** – Building secure APIs, microservices, distributed systems, and high-performance backend services.
 * **Full-Stack Developer** – Developing modern, scalable web applications from frontend to backend.
-* **DevOps / Cloud Engineer** – Designing CI/CD pipelines, containerization (Docker/K8s), and cloud platforms (AWS/Azure/GCP).
-* **Software Engineer** – Developing reliable, maintainable software using clean architecture.
+* **DevOps / Cloud Engineer** – Designing CI/CD pipelines, cloud automation, containerization (Docker/K8s), IaC (Terraform), and cloud platforms (AWS/Azure/GCP).
+* **Software Engineer** – Developing reliable, maintainable software using clean architecture and best engineering practices.
 * **Integration Engineer** – Connecting business systems through APIs and automation to streamline operations.
+
+**Impact:** Reducing deployment time, optimizing cloud infrastructure, and improving system reliability.  
+**Work flexibility:** Remote, hybrid, or onsite.
 
 ---
 
 ## 🏆 **Achievements & Metrics**
 * Developed and deployed **PayrollOS**, an end-to-end payroll solution integrated with Zoho Creator, Zoho People, and Zoho Books.
-* Built a **Garage Management System** using Zoho Creator, automating vehicle service, job cards, and invoicing.
-* Built **fintech solutions** by integrating **Money & Wallet APIs**, enabling secure digital wallet transactions.
-* Designed and implemented **enterprise business applications** that automated HR, payroll, and CRM workflows.
-* Developed scalable **REST API integrations** connecting Zoho applications and third-party platforms.
+* Built a **Garage Management System** using Zoho Creator, automating vehicle service management, job cards, inventory, and workshop operations.
+* Built **fintech solutions** by integrating **Money & Wallet APIs**, enabling secure digital wallet transactions and payment processing.
+* Designed and implemented **enterprise business applications** that automated HR, payroll, CRM, and finance workflows, significantly reducing manual processes.
+* Developed scalable **REST API integrations** connecting Zoho applications, Money & Wallet APIs, and third-party platforms.
+* Improved application performance and maintainability through clean architecture and optimized database design.
+* Delivered custom software solutions across **fintech, payroll, garage management, and business operations**.
+* Collaborated with cross-functional teams to translate business requirements into scalable, reliable software.
 
 ---
 
 ## 💻 Tech Stack
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=swagger&logoColor=white)
+### **Frontend**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-### DevOps & Databases
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+### **Backend**
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=swagger&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### **DevOps**
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2671E5?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### **Tools & Others**
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-00ADD8?style=for-the-badge&logo=scrumalliance&logoColor=white) ![Zoho Creator](https://img.shields.io/badge/Zoho%20Creator-E42527?style=for-the-badge&logo=zoho&logoColor=white) ![Zoho Books](https://img.shields.io/badge/Zoho%20Books-E42527?style=for-the-badge&logo=zoho&logoColor=white) ![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white)
 
 ---
 
 ## 🏆 **Featured Projects**
 
 ### **DevOps Automation Suite**
-Automated CI/CD pipeline using Docker, Kubernetes, and Terraform.  
+Automated CI/CD pipeline using Docker, Kubernetes, Terraform.  
+**Impact:** Reduced deployment time by 75%, deployed 15+ services.  
 <p>
 <img src="https://i.pinimg.com/736x/77/94/9d/77949dc9e96c04011e92e3b4f3893dc4.jpg" width="280" height="180" style="object-fit:cover;">
 <img src="https://i.pinimg.com/736x/e1/18/2e/e1182e10bdbeaaa642b50a5a1f5ce289.jpg" width="280" height="180" style="object-fit:cover;">
 </p>
-<a href="https://github.com/hesbonangwenyi606/deploy-cloud-tools.git">![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://deploy-cloud-tools.vercel.app/">![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)</a> <a href="https://github.com/hesbonangwenyi606/deploy-cloud-tools.git">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
 
 ### **Safaricom Queue Management System**
-Web-Based Application for real-time customer position tracking.  
+Web-Based Queue Application for real-time customer position tracking.  
+**Impact:** Improved flow visibility and reduced wait-time confusion.  
 <p>
 <img src="https://i.pinimg.com/1200x/49/28/3d/49283dd9e7e5fd9aac1b41b65993f691.jpg" width="280" height="180" style="object-fit:cover;">
 <img src="https://i.pinimg.com/1200x/b0/06/58/b006581c63305fdcb06b2925c2e2736c.jpg" width="280" height="180" style="object-fit:cover;">
 </p>
-<a href="https://safaricom-queue-system-6awf.vercel.app/">![Live Demo Badge](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)</a> 
-<a href="https://github.com/hesbonangwenyi606/safaricom-queue-system">![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://safaricom-queue-system-6awf.vercel.app/">![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)</a> <a href="https://github.com/hesbonangwenyi606/safaricom-queue-system">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
+
+### **Microservices Architecture**
+Scalable microservices with API Gateway, service discovery, and distributed logging.  
+**Impact:** Improved API response time by 40%, auto-scalable services.  
+<p>
+<img src="https://i.pinimg.com/736x/b5/b1/28/b5b1287d01e39e882bd54fa38f5e16c1.jpg" width="280" height="180" style="object-fit:cover;">
+<img src="https://i.pinimg.com/736x/18/f2/6c/18f26c98e556c524dc6c335ff4f7a7eb.jpg" width="280" height="180" style="object-fit:cover;">
+</p>
+<a href="https://scalable-docker-logging.vercel.app/">![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white)</a> <a href="https://github.com/hesbonangwenyi606/scalable-docker-logging.git">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
 
 ---
 
-## 📊 **GitHub Stats**
+## **Why Hire Me?**
+* Build **custom business applications** that solve real operational challenges.
+* Strong expertise in **Zoho Creator, Deluge, REST APIs**, and enterprise system integrations.
+* Experienced in **backend development**, API design, and scalable business solutions.
+* Proven ability to develop solutions across **payroll, fintech, HR, CRM, and finance**.
+* Deliver clean, maintainable, and reliable software with a focus on user experience.
+* Quick learner who adapts to new technologies and solves complex business problems.
+* Effective collaborator with cross-functional teams.
+* Flexible and open to **remote, hybrid, or onsite** opportunities.
+
+---
+
+## 📊 **GitHub Activity & Stats**
 
 <div align="center">
 
@@ -90,6 +125,11 @@ Web-Based Application for real-time customer position tracking.
 
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=hesbonangwenyi606&show_icons=true&theme=dark&count_private=true&include_all_commits=true&rank_icon=percentile" height="180" alt="GitHub Grade" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hesbonangwenyi606&theme=github_dark" height="180" alt="Top Languages" />
+
+<br/>
+
+<!-- Modern Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hesbonangwenyi606&theme=github-dark-wide&bg_color=0D1117&hide_border=true)
 
 </div>
 
@@ -136,12 +176,12 @@ Web-Based Application for real-time customer position tracking.
 
 <div align="center">
 
-### Random Dev Quote
+### **Random Dev Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
-## 💰 Support My Work
+## 💰 **Support My Work**
 <a href="https://paypal.me/hesbonmanyinsa96@gmail">![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)</a>
 <a href="tel:+254743573380">![M-Pesa](https://img.shields.io/badge/M--Pesa-00A650?style=for-the-badge&logo=mpesa&logoColor=white)</a>
 
