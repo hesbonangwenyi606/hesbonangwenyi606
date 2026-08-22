@@ -25,6 +25,7 @@ If you're hiring for a role where "understands the business AND can ship the cod
 |---|---|
 | **PayrollOS** — end-to-end payroll engine on Zoho Creator, People & Books | Automated payroll, HR, and finance into one workflow — eliminated manual payroll reconciliation |
 | **Garage Management System** (Zoho Creator) | Automated job cards, inventory, invoicing & customer records for a full auto-workshop operation |
+| **Biometric Attendance System** (Zoho Creator, 5 construction sites) | Automated check-in/check-out tracking with real-time notifications to site managers |
 | **Fintech Wallet Integrations** (Money & Wallet APIs) | Enabled secure digital wallet transactions, payments, and fund transfers in production |
 | **DevOps Automation Suite** (Docker, Kubernetes, Terraform) | **75% reduction in deployment time**, 15+ services shipped through the pipeline |
 | **Microservices Architecture** (API Gateway, service discovery) | **40% faster API response times**, auto-scaling under load |
@@ -48,6 +49,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 
 * Developed and deployed **PayrollOS**, an end-to-end payroll solution integrated with **Zoho Creator, Zoho People, and Zoho Books**, streamlining payroll, HR, and finance operations.
 * Built a **Garage Management System** using **Zoho Creator**, automating vehicle service management, job cards, inventory tracking, invoicing, customer management, and workshop operations.
+* Built a **biometric check-in/check-out system** in Zoho Creator for 5 construction sites, automating attendance tracking and giving site managers real-time notifications.
 * Built **fintech solutions** by integrating **Money & Wallet APIs**, enabling secure digital wallet transactions, payment processing, fund transfers, and financial workflow automation.
 * Designed and implemented **enterprise business applications** that automated HR, payroll, CRM, finance, inventory, and approval workflows, significantly reducing manual processes.
 * Developed scalable **REST API integrations** connecting Zoho applications, Money & Wallet APIs, and third-party platforms for seamless data synchronization.
@@ -213,7 +215,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 
 <div align="center">
 
-*Built with ❤️ by Hesbon Angwenyi — Nairobi, Kenya*
+*Built with by Hesbon Angwenyi — Nairobi, Kenya*
 [![](https://visitcount.itsvg.in/api?id=hesbonangwenyi606&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
