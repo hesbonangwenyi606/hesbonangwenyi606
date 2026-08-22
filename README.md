@@ -4,11 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=26&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Business+Applications+%26+Backend+Engineer;Zoho+Creator+%7C+Deluge+%7C+REST+API+Integrations;Full-Stack%3A+Node.js+%7C+React+%7C+TypeScript;DevOps%3A+Docker+%7C+Kubernetes+%7C+CI%2FCD;I+Turn+Business+Requirements+Into+Production+Systems)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hesbonmanyinsa96@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254722514540)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hesbonmanyi254)
-
 </div>
 
 ![The One-Line Pitch](https://capsule-render.vercel.app/api?type=soft&height=100&text=The%20One-Line%20Pitch&fontSize=28&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
