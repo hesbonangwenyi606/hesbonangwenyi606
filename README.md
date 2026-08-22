@@ -14,8 +14,7 @@ I'm a **Business Applications Developer and Backend/Full-Stack Engineer** who tu
 
 If you're hiring for a role where "understands the business AND can ship the code" matters, that's exactly the gap I fill.
 
-**Open to:** Backend Engineer · Full-Stack Developer · Business Applications Developer · Integration Engineer
-**Availability:** Remote-first, worldwide · Hybrid/Onsite in Nairobi, Kenya · Comfortable across US/EU/APAC time zones (based in GMT+3)
+![Open to and Availability](https://capsule-render.vercel.app/api?type=soft&height=140&text=Open%20to%3A%20Backend%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Business%20Applications%20Developer%20%C2%B7%20Integration%20Engineer%0AAvailability%3A%20Remote-first%2C%20worldwide%20%C2%B7%20Hybrid%2FOnsite%20in%20Nairobi%2C%20Kenya%20%C2%B7%20GMT%2B3&fontSize=15&fontAlign=50&fontAlignY=40&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
 *Experienced working async with distributed, cross-time-zone teams.*
 
@@ -93,7 +92,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 
 ![Featured Projects](https://capsule-render.vercel.app/api?type=soft&height=70&text=Featured%20Projects&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
 
-<h3>🚀 DevOps Automation Suite</h3>
+<h3>  DevOps Automation Suite</h3>
 <p>Automated CI/CD pipeline built on Docker, Kubernetes, and Terraform — designed to take a service from commit to production with zero manual steps.<br>
 <strong>Impact:</strong> 75% reduction in deployment time · 15+ services deployed through the pipeline</p>
 <p>
@@ -134,7 +133,6 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 </p>
 
 <hr>
-
 ---
 
 ![GitHub Activity and Stats](https://capsule-render.vercel.app/api?type=soft&height=70&text=GitHub%20Activity%20and%20Stats&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
