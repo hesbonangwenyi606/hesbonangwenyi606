@@ -197,13 +197,13 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 
 <table width="100%">
   <tr>
-    <td width="25%" valign="top">
+    <td width="33%" valign="top">
       <h3>About</h3>
       <p>
       Hesbon Angwenyi is a Business Applications Developer and Backend/Full-Stack Engineer working with clients globally. He designs and ships production systems across payroll, fintech, CRM, and operations — combining the Zoho ecosystem with modern Node.js/React engineering.
       </p>
     </td>
-    <td width="25%" valign="top">
+    <td width="33%" valign="top">
       <h3>Services</h3>
       <ul>
         <li>Zoho Creator &amp; Deluge Development</li>
@@ -214,18 +214,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
         <li>DevOps &amp; CI/CD Pipeline Setup</li>
       </ul>
     </td>
-    <td width="25%" valign="top">
-      <h3>Quick Links</h3>
-      <ul>
-        <li><a href="#the-one-line-pitch">About Me</a></li>
-        <li><a href="#proof-of-impact">Proof of Impact</a></li>
-        <li><a href="#achievements-and-metrics">Achievements</a></li>
-        <li><a href="#tech-stack">Tech Stack</a></li>
-        <li><a href="#featured-projects">Projects</a></li>
-        <li><a href="https://github.com/hesbonangwenyi606?tab=repositories">All Repositories</a></li>
-      </ul>
-    </td>
-    <td width="25%" valign="top">
+    <td width="33%" valign="top">
       <h3>Location &amp; Contact</h3>
       <p>
       🌍 Remote-first · Worldwide<br/>
@@ -243,7 +232,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia&animation=twinkling)
 
-*Built with ❤️ by Hesbon Angwenyi — Working Globally, Based in Nairobi, Kenya*
+*Built with by Hesbon Angwenyi — Working Globally, Based in Nairobi, Kenya*
 [![](https://visitcount.itsvg.in/api?id=hesbonangwenyi606&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
