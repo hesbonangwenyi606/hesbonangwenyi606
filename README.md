@@ -15,7 +15,9 @@ I'm a **Business Applications Developer and Backend/Full-Stack Engineer** who tu
 If you're hiring for a role where "understands the business AND can ship the code" matters, that's exactly the gap I fill.
 
 **Open to:** Backend Engineer · Full-Stack Developer · Business Applications Developer · Integration Engineer
-**Availability:** Remote · Hybrid · Onsite — Nairobi, Kenya (GMT+3)
+**Availability:** Remote-first, worldwide · Hybrid/Onsite in Nairobi, Kenya · Comfortable across US/EU/APAC time zones (based in GMT+3)
+
+*Experienced working async with distributed, cross-time-zone teams.*
 
 ---
 
@@ -198,7 +200,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
     <td width="25%" valign="top">
       <h3>About</h3>
       <p>
-      Hesbon Angwenyi is a Business Applications Developer and Backend/Full-Stack Engineer based in Nairobi, Kenya. He designs and ships production systems across payroll, fintech, CRM, and operations — combining the Zoho ecosystem with modern Node.js/React engineering.
+      Hesbon Angwenyi is a Business Applications Developer and Backend/Full-Stack Engineer working with clients globally. He designs and ships production systems across payroll, fintech, CRM, and operations — combining the Zoho ecosystem with modern Node.js/React engineering.
       </p>
     </td>
     <td width="25%" valign="top">
@@ -226,8 +228,9 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
     <td width="25%" valign="top">
       <h3>Location &amp; Contact</h3>
       <p>
-      📍 Nairobi, Kenya (GMT+3)<br/>
-      🕒 Available: Remote · Hybrid · Onsite<br/><br/>
+      🌍 Remote-first · Worldwide<br/>
+      📍 Based in Nairobi, Kenya (GMT+3)<br/>
+      🕒 US / EU / APAC overlap friendly<br/><br/>
       <a href="mailto:hesbonmanyinsa96@gmail.com">✉️ Email</a><br/>
       <a href="https://www.linkedin.com/in/hesbon-angwenyi-58b9412b4/">💼 LinkedIn</a><br/>
       <a href="https://wa.me/254722514540">💬 WhatsApp</a>
@@ -240,7 +243,7 @@ I'm looking for a role where I can own real business problems end-to-end, not ju
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia&animation=twinkling)
 
-*Built with ❤️ by Hesbon Angwenyi — Nairobi, Kenya*
+*Built with ❤️ by Hesbon Angwenyi — Working Globally, Based in Nairobi, Kenya*
 [![](https://visitcount.itsvg.in/api?id=hesbonangwenyi606&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
