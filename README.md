@@ -1,5 +1,4 @@
 <div align="center">
-
 ![Welcome To My GitHub Profile](https://capsule-render.vercel.app/api?type=waving&height=220&text=Hesbon%20Angwenyi&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=wave&fontFamily=Georgia)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=26&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Business+Applications+%26+Backend+Engineer;Zoho+Creator+%7C+Deluge+%7C+REST+API+Integrations;Full-Stack%3A+Node.js+%7C+React+%7C+TypeScript;DevOps%3A+Docker+%7C+Kubernetes+%7C+CI%2FCD;I+Turn+Business+Requirements+Into+Production+Systems)](https://git.io/typing-svg)
