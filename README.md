@@ -221,7 +221,6 @@ I want a role where I actually own a problem, not just close tickets. That fits 
     </td>
   </tr>
 </table>
-
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Thanks%20for%20Visiting%20My%20GitHub%20Profile!&fontSize=22&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia&animation=twinkling)
