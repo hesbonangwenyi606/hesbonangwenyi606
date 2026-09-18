@@ -137,7 +137,6 @@ I want a role where I actually own a problem, not just close tickets. That fits 
 <a href="https://scalable-docker-logging.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="https://github.com/hesbonangwenyi606/scalable-docker-logging.git"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
 <hr>
 
 ![GitHub Activity and Stats](https://capsule-render.vercel.app/api?type=soft&height=70&text=GitHub%20Activity%20and%20Stats&fontSize=22&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&fontFamily=Georgia)
