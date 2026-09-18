@@ -146,7 +146,6 @@ I want a role where I actually own a problem, not just close tickets. That fits 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hesbonangwenyi606&theme=dark)
 
 <br/>
-
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=hesbonangwenyi606&show_icons=true&theme=dark&count_private=true&include_all_commits=true&rank_icon=percentile" height="180" alt="GitHub Grade" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hesbonangwenyi606&theme=github_dark" height="180" alt="Top Languages" />
 
